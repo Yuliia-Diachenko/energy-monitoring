@@ -1,0 +1,2582 @@
+[
+  {
+    "Date start": 42736,
+    "Date end": 42766,
+    "Year": 2017,
+    "Month": 1,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 21.908
+  },
+  {
+    "Date start": 42736,
+    "Date end": 42766,
+    "Year": 2017,
+    "Month": 1,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 79.186
+  },
+  {
+    "Date start": 42736,
+    "Date end": 42766,
+    "Year": 2017,
+    "Month": 1,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 13.245
+  },
+  {
+    "Date start": 42736,
+    "Date end": 42766,
+    "Year": 2017,
+    "Month": 1,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 8.235
+  },
+  {
+    "Date start": 42736,
+    "Date end": 42766,
+    "Year": 2017,
+    "Month": 1,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 7.435
+  },
+  {
+    "Date start": 42767,
+    "Date end": 42794,
+    "Year": 2017,
+    "Month": 2,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 32.744
+  },
+  {
+    "Date start": 42767,
+    "Date end": 42794,
+    "Year": 2017,
+    "Month": 2,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 81.19399999999999
+  },
+  {
+    "Date start": 42767,
+    "Date end": 42794,
+    "Year": 2017,
+    "Month": 2,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 20.539
+  },
+  {
+    "Date start": 42767,
+    "Date end": 42794,
+    "Year": 2017,
+    "Month": 2,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 6.809000000000001
+  },
+  {
+    "Date start": 42767,
+    "Date end": 42794,
+    "Year": 2017,
+    "Month": 2,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 6.595
+  },
+  {
+    "Date start": 42795,
+    "Date end": 42825,
+    "Year": 2017,
+    "Month": 3,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 54.417
+  },
+  {
+    "Date start": 42795,
+    "Date end": 42825,
+    "Year": 2017,
+    "Month": 3,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 99.16899999999998
+  },
+  {
+    "Date start": 42795,
+    "Date end": 42825,
+    "Year": 2017,
+    "Month": 3,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 39.745
+  },
+  {
+    "Date start": 42795,
+    "Date end": 42825,
+    "Year": 2017,
+    "Month": 3,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 8.361999999999998
+  },
+  {
+    "Date start": 42795,
+    "Date end": 42825,
+    "Year": 2017,
+    "Month": 3,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 6.735999999999999
+  },
+  {
+    "Date start": 42826,
+    "Date end": 42855,
+    "Year": 2017,
+    "Month": 4,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 66.808
+  },
+  {
+    "Date start": 42826,
+    "Date end": 42855,
+    "Year": 2017,
+    "Month": 4,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 74.642
+  },
+  {
+    "Date start": 42826,
+    "Date end": 42855,
+    "Year": 2017,
+    "Month": 4,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 25.292
+  },
+  {
+    "Date start": 42826,
+    "Date end": 42855,
+    "Year": 2017,
+    "Month": 4,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 9.11
+  },
+  {
+    "Date start": 42826,
+    "Date end": 42855,
+    "Year": 2017,
+    "Month": 4,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 6.457000000000001
+  },
+  {
+    "Date start": 42856,
+    "Date end": 42886,
+    "Year": 2017,
+    "Month": 5,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 82.62599999999998
+  },
+  {
+    "Date start": 42856,
+    "Date end": 42886,
+    "Year": 2017,
+    "Month": 5,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 55.42500000000001
+  },
+  {
+    "Date start": 42856,
+    "Date end": 42886,
+    "Year": 2017,
+    "Month": 5,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 17.63800000000001
+  },
+  {
+    "Date start": 42856,
+    "Date end": 42886,
+    "Year": 2017,
+    "Month": 5,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 9.182000000000002
+  },
+  {
+    "Date start": 42856,
+    "Date end": 42886,
+    "Year": 2017,
+    "Month": 5,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 6.984000000000002
+  },
+  {
+    "Date start": 42887,
+    "Date end": 42916,
+    "Year": 2017,
+    "Month": 6,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 92.21600000000001
+  },
+  {
+    "Date start": 42887,
+    "Date end": 42916,
+    "Year": 2017,
+    "Month": 6,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 49.697
+  },
+  {
+    "Date start": 42887,
+    "Date end": 42916,
+    "Year": 2017,
+    "Month": 6,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 12.15600000000001
+  },
+  {
+    "Date start": 42887,
+    "Date end": 42916,
+    "Year": 2017,
+    "Month": 6,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 8.886000000000003
+  },
+  {
+    "Date start": 42887,
+    "Date end": 42916,
+    "Year": 2017,
+    "Month": 6,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 7.713000000000001
+  },
+  {
+    "Date start": 42917,
+    "Date end": 42947,
+    "Year": 2017,
+    "Month": 7,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 95.17000000000002
+  },
+  {
+    "Date start": 42917,
+    "Date end": 42947,
+    "Year": 2017,
+    "Month": 7,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 57.69900000000001
+  },
+  {
+    "Date start": 42917,
+    "Date end": 42947,
+    "Year": 2017,
+    "Month": 7,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 9.95999999999998
+  },
+  {
+    "Date start": 42917,
+    "Date end": 42947,
+    "Year": 2017,
+    "Month": 7,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 8.509999999999998
+  },
+  {
+    "Date start": 42917,
+    "Date end": 42947,
+    "Year": 2017,
+    "Month": 7,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 7.326000000000001
+  },
+  {
+    "Date start": 42948,
+    "Date end": 42978,
+    "Year": 2017,
+    "Month": 8,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 97.25199999999995
+  },
+  {
+    "Date start": 42948,
+    "Date end": 42978,
+    "Year": 2017,
+    "Month": 8,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 83.65199999999999
+  },
+  {
+    "Date start": 42948,
+    "Date end": 42978,
+    "Year": 2017,
+    "Month": 8,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 8.527999999999999
+  },
+  {
+    "Date start": 42948,
+    "Date end": 42978,
+    "Year": 2017,
+    "Month": 8,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 7.428000000000004
+  },
+  {
+    "Date start": 42948,
+    "Date end": 42978,
+    "Year": 2017,
+    "Month": 8,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 6.808999999999997
+  },
+  {
+    "Date start": 42979,
+    "Date end": 43008,
+    "Year": 2017,
+    "Month": 9,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 80.85400000000004
+  },
+  {
+    "Date start": 42979,
+    "Date end": 43008,
+    "Year": 2017,
+    "Month": 9,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 86.76099999999997
+  },
+  {
+    "Date start": 42979,
+    "Date end": 43008,
+    "Year": 2017,
+    "Month": 9,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 9.54000000000002
+  },
+  {
+    "Date start": 42979,
+    "Date end": 43008,
+    "Year": 2017,
+    "Month": 9,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 8.129999999999995
+  },
+  {
+    "Date start": 42979,
+    "Date end": 43008,
+    "Year": 2017,
+    "Month": 9,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 7.825999999999993
+  },
+  {
+    "Date start": 43009,
+    "Date end": 43039,
+    "Year": 2017,
+    "Month": 10,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 49.40300000000002
+  },
+  {
+    "Date start": 43009,
+    "Date end": 43039,
+    "Year": 2017,
+    "Month": 10,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 95.52100000000007
+  },
+  {
+    "Date start": 43009,
+    "Date end": 43039,
+    "Year": 2017,
+    "Month": 10,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 14.238
+  },
+  {
+    "Date start": 43009,
+    "Date end": 43039,
+    "Year": 2017,
+    "Month": 10,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 8.838000000000008
+  },
+  {
+    "Date start": 43009,
+    "Date end": 43039,
+    "Year": 2017,
+    "Month": 10,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 8.701000000000008
+  },
+  {
+    "Date start": 43040,
+    "Date end": 43069,
+    "Year": 2017,
+    "Month": 11,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 22.54899999999998
+  },
+  {
+    "Date start": 43040,
+    "Date end": 43069,
+    "Year": 2017,
+    "Month": 11,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 93.53300000000002
+  },
+  {
+    "Date start": 43040,
+    "Date end": 43069,
+    "Year": 2017,
+    "Month": 11,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 19.934
+  },
+  {
+    "Date start": 43040,
+    "Date end": 43069,
+    "Year": 2017,
+    "Month": 11,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 8.570999999999998
+  },
+  {
+    "Date start": 43040,
+    "Date end": 43069,
+    "Year": 2017,
+    "Month": 11,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 8.239999999999995
+  },
+  {
+    "Date start": 43070,
+    "Date end": 43100,
+    "Year": 2017,
+    "Month": 12,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 18.76300000000003
+  },
+  {
+    "Date start": 43070,
+    "Date end": 43100,
+    "Year": 2017,
+    "Month": 12,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 117.067
+  },
+  {
+    "Date start": 43070,
+    "Date end": 43100,
+    "Year": 2017,
+    "Month": 12,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 23.441
+  },
+  {
+    "Date start": 43070,
+    "Date end": 43100,
+    "Year": 2017,
+    "Month": 12,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 9.991
+  },
+  {
+    "Date start": 43070,
+    "Date end": 43100,
+    "Year": 2017,
+    "Month": 12,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 9.176000000000002
+  },
+  {
+    "Date start": 43101,
+    "Date end": 43131,
+    "Year": 2018,
+    "Month": 1,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 26.335
+  },
+  {
+    "Date start": 43101,
+    "Date end": 43131,
+    "Year": 2018,
+    "Month": 1,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 114.787
+  },
+  {
+    "Date start": 43101,
+    "Date end": 43131,
+    "Year": 2018,
+    "Month": 1,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 24.173
+  },
+  {
+    "Date start": 43101,
+    "Date end": 43131,
+    "Year": 2018,
+    "Month": 1,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 13.424
+  },
+  {
+    "Date start": 43101,
+    "Date end": 43131,
+    "Year": 2018,
+    "Month": 1,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 8.767
+  },
+  {
+    "Date start": 43132,
+    "Date end": 43159,
+    "Year": 2018,
+    "Month": 2,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 30.574
+  },
+  {
+    "Date start": 43132,
+    "Date end": 43159,
+    "Year": 2018,
+    "Month": 2,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 96.748
+  },
+  {
+    "Date start": 43132,
+    "Date end": 43159,
+    "Year": 2018,
+    "Month": 2,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 20.561
+  },
+  {
+    "Date start": 43132,
+    "Date end": 43159,
+    "Year": 2018,
+    "Month": 2,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 13.055
+  },
+  {
+    "Date start": 43132,
+    "Date end": 43159,
+    "Year": 2018,
+    "Month": 2,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 7.704
+  },
+  {
+    "Date start": 43160,
+    "Date end": 43190,
+    "Year": 2018,
+    "Month": 3,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 64.402
+  },
+  {
+    "Date start": 43160,
+    "Date end": 43190,
+    "Year": 2018,
+    "Month": 3,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 121.798
+  },
+  {
+    "Date start": 43160,
+    "Date end": 43190,
+    "Year": 2018,
+    "Month": 3,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 34.158
+  },
+  {
+    "Date start": 43160,
+    "Date end": 43190,
+    "Year": 2018,
+    "Month": 3,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 14.41
+  },
+  {
+    "Date start": 43160,
+    "Date end": 43190,
+    "Year": 2018,
+    "Month": 3,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 7.544
+  },
+  {
+    "Date start": 43191,
+    "Date end": 43220,
+    "Year": 2018,
+    "Month": 4,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 122.585
+  },
+  {
+    "Date start": 43191,
+    "Date end": 43220,
+    "Year": 2018,
+    "Month": 4,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 100.046
+  },
+  {
+    "Date start": 43191,
+    "Date end": 43220,
+    "Year": 2018,
+    "Month": 4,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 31.147
+  },
+  {
+    "Date start": 43191,
+    "Date end": 43220,
+    "Year": 2018,
+    "Month": 4,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 12.796
+  },
+  {
+    "Date start": 43191,
+    "Date end": 43220,
+    "Year": 2018,
+    "Month": 4,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 7.866
+  },
+  {
+    "Date start": 43221,
+    "Date end": 43251,
+    "Year": 2018,
+    "Month": 5,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 131.634
+  },
+  {
+    "Date start": 43221,
+    "Date end": 43251,
+    "Year": 2018,
+    "Month": 5,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 75.952
+  },
+  {
+    "Date start": 43221,
+    "Date end": 43251,
+    "Year": 2018,
+    "Month": 5,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 16.167
+  },
+  {
+    "Date start": 43221,
+    "Date end": 43251,
+    "Year": 2018,
+    "Month": 5,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 14.537
+  },
+  {
+    "Date start": 43221,
+    "Date end": 43251,
+    "Year": 2018,
+    "Month": 5,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 9.046
+  },
+  {
+    "Date start": 43252,
+    "Date end": 43281,
+    "Year": 2018,
+    "Month": 6,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 123.208
+  },
+  {
+    "Date start": 43252,
+    "Date end": 43281,
+    "Year": 2018,
+    "Month": 6,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 58.602
+  },
+  {
+    "Date start": 43252,
+    "Date end": 43281,
+    "Year": 2018,
+    "Month": 6,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 13.873
+  },
+  {
+    "Date start": 43252,
+    "Date end": 43281,
+    "Year": 2018,
+    "Month": 6,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 12.896
+  },
+  {
+    "Date start": 43252,
+    "Date end": 43281,
+    "Year": 2018,
+    "Month": 6,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 7.907
+  },
+  {
+    "Date start": 43282,
+    "Date end": 43312,
+    "Year": 2018,
+    "Month": 7,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 135.068
+  },
+  {
+    "Date start": 43282,
+    "Date end": 43312,
+    "Year": 2018,
+    "Month": 7,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 52.194
+  },
+  {
+    "Date start": 43282,
+    "Date end": 43312,
+    "Year": 2018,
+    "Month": 7,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 15.207
+  },
+  {
+    "Date start": 43282,
+    "Date end": 43312,
+    "Year": 2018,
+    "Month": 7,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 14.223
+  },
+  {
+    "Date start": 43282,
+    "Date end": 43312,
+    "Year": 2018,
+    "Month": 7,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 9.025
+  },
+  {
+    "Date start": 43313,
+    "Date end": 43343,
+    "Year": 2018,
+    "Month": 8,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 164.987
+  },
+  {
+    "Date start": 43313,
+    "Date end": 43343,
+    "Year": 2018,
+    "Month": 8,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 90.398
+  },
+  {
+    "Date start": 43313,
+    "Date end": 43343,
+    "Year": 2018,
+    "Month": 8,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 15.624
+  },
+  {
+    "Date start": 43313,
+    "Date end": 43343,
+    "Year": 2018,
+    "Month": 8,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 11.544
+  },
+  {
+    "Date start": 43313,
+    "Date end": 43343,
+    "Year": 2018,
+    "Month": 8,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 6.752
+  },
+  {
+    "Date start": 43344,
+    "Date end": 43373,
+    "Year": 2018,
+    "Month": 9,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 119.05
+  },
+  {
+    "Date start": 43344,
+    "Date end": 43373,
+    "Year": 2018,
+    "Month": 9,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 96.018
+  },
+  {
+    "Date start": 43344,
+    "Date end": 43373,
+    "Year": 2018,
+    "Month": 9,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 14.297
+  },
+  {
+    "Date start": 43344,
+    "Date end": 43373,
+    "Year": 2018,
+    "Month": 9,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 10.874
+  },
+  {
+    "Date start": 43344,
+    "Date end": 43373,
+    "Year": 2018,
+    "Month": 9,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 7.738
+  },
+  {
+    "Date start": 43374,
+    "Date end": 43404,
+    "Year": 2018,
+    "Month": 10,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 118.323
+  },
+  {
+    "Date start": 43374,
+    "Date end": 43404,
+    "Year": 2018,
+    "Month": 10,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 122.951
+  },
+  {
+    "Date start": 43374,
+    "Date end": 43404,
+    "Year": 2018,
+    "Month": 10,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 18.637
+  },
+  {
+    "Date start": 43374,
+    "Date end": 43404,
+    "Year": 2018,
+    "Month": 10,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 16.802
+  },
+  {
+    "Date start": 43374,
+    "Date end": 43404,
+    "Year": 2018,
+    "Month": 10,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 9.104
+  },
+  {
+    "Date start": 43405,
+    "Date end": 43434,
+    "Year": 2018,
+    "Month": 11,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 42.102
+  },
+  {
+    "Date start": 43405,
+    "Date end": 43434,
+    "Year": 2018,
+    "Month": 11,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 118.893
+  },
+  {
+    "Date start": 43405,
+    "Date end": 43434,
+    "Year": 2018,
+    "Month": 11,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 18.41
+  },
+  {
+    "Date start": 43405,
+    "Date end": 43434,
+    "Year": 2018,
+    "Month": 11,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 15.958
+  },
+  {
+    "Date start": 43405,
+    "Date end": 43434,
+    "Year": 2018,
+    "Month": 11,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 8.736
+  },
+  {
+    "Date start": 43435,
+    "Date end": 43465,
+    "Year": 2018,
+    "Month": 12,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 21.185
+  },
+  {
+    "Date start": 43435,
+    "Date end": 43465,
+    "Year": 2018,
+    "Month": 12,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 132.364
+  },
+  {
+    "Date start": 43435,
+    "Date end": 43465,
+    "Year": 2018,
+    "Month": 12,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 18.377
+  },
+  {
+    "Date start": 43435,
+    "Date end": 43465,
+    "Year": 2018,
+    "Month": 12,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 15.594
+  },
+  {
+    "Date start": 43435,
+    "Date end": 43465,
+    "Year": 2018,
+    "Month": 12,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 12.007
+  },
+  {
+    "Date start": 43466,
+    "Date end": 43496,
+    "Year": 2019,
+    "Month": 1,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 31.626
+  },
+  {
+    "Date start": 43466,
+    "Date end": 43496,
+    "Year": 2019,
+    "Month": 1,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 137.918
+  },
+  {
+    "Date start": 43466,
+    "Date end": 43496,
+    "Year": 2019,
+    "Month": 1,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 19.835
+  },
+  {
+    "Date start": 43466,
+    "Date end": 43496,
+    "Year": 2019,
+    "Month": 1,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 14.632
+  },
+  {
+    "Date start": 43466,
+    "Date end": 43496,
+    "Year": 2019,
+    "Month": 1,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 11.314
+  },
+  {
+    "Date start": 43497,
+    "Date end": 43524,
+    "Year": 2019,
+    "Month": 2,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 82.561
+  },
+  {
+    "Date start": 43497,
+    "Date end": 43524,
+    "Year": 2019,
+    "Month": 2,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 124.142
+  },
+  {
+    "Date start": 43497,
+    "Date end": 43524,
+    "Year": 2019,
+    "Month": 2,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 27.345
+  },
+  {
+    "Date start": 43497,
+    "Date end": 43524,
+    "Year": 2019,
+    "Month": 2,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 14.527
+  },
+  {
+    "Date start": 43497,
+    "Date end": 43524,
+    "Year": 2019,
+    "Month": 2,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 10.855
+  },
+  {
+    "Date start": 43525,
+    "Date end": 43555,
+    "Year": 2019,
+    "Month": 3,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 209.661
+  },
+  {
+    "Date start": 43525,
+    "Date end": 43555,
+    "Year": 2019,
+    "Month": 3,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 154.385
+  },
+  {
+    "Date start": 43525,
+    "Date end": 43555,
+    "Year": 2019,
+    "Month": 3,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 28.529
+  },
+  {
+    "Date start": 43525,
+    "Date end": 43555,
+    "Year": 2019,
+    "Month": 3,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 17.821
+  },
+  {
+    "Date start": 43525,
+    "Date end": 43555,
+    "Year": 2019,
+    "Month": 3,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 13.388
+  },
+  {
+    "Date start": 43556,
+    "Date end": 43585,
+    "Year": 2019,
+    "Month": 4,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 271.326
+  },
+  {
+    "Date start": 43556,
+    "Date end": 43585,
+    "Year": 2019,
+    "Month": 4,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 141.14
+  },
+  {
+    "Date start": 43556,
+    "Date end": 43585,
+    "Year": 2019,
+    "Month": 4,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 23.184
+  },
+  {
+    "Date start": 43556,
+    "Date end": 43585,
+    "Year": 2019,
+    "Month": 4,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 17.509
+  },
+  {
+    "Date start": 43556,
+    "Date end": 43585,
+    "Year": 2019,
+    "Month": 4,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 16.228
+  },
+  {
+    "Date start": 43586,
+    "Date end": 43616,
+    "Year": 2019,
+    "Month": 5,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 287.358
+  },
+  {
+    "Date start": 43586,
+    "Date end": 43616,
+    "Year": 2019,
+    "Month": 5,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 135.547
+  },
+  {
+    "Date start": 43586,
+    "Date end": 43616,
+    "Year": 2019,
+    "Month": 5,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 33.296
+  },
+  {
+    "Date start": 43586,
+    "Date end": 43616,
+    "Year": 2019,
+    "Month": 5,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 18.135
+  },
+  {
+    "Date start": 43586,
+    "Date end": 43616,
+    "Year": 2019,
+    "Month": 5,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 16.158
+  },
+  {
+    "Date start": 43617,
+    "Date end": 43646,
+    "Year": 2019,
+    "Month": 6,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 382.681
+  },
+  {
+    "Date start": 43617,
+    "Date end": 43646,
+    "Year": 2019,
+    "Month": 6,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 146.268
+  },
+  {
+    "Date start": 43617,
+    "Date end": 43646,
+    "Year": 2019,
+    "Month": 6,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 27.857
+  },
+  {
+    "Date start": 43617,
+    "Date end": 43646,
+    "Year": 2019,
+    "Month": 6,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 17.674
+  },
+  {
+    "Date start": 43617,
+    "Date end": 43646,
+    "Year": 2019,
+    "Month": 6,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 14.887
+  },
+  {
+    "Date start": 43647,
+    "Date end": 43677,
+    "Year": 2019,
+    "Month": 7,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 390.193
+  },
+  {
+    "Date start": 43647,
+    "Date end": 43677,
+    "Year": 2019,
+    "Month": 7,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 98.933
+  },
+  {
+    "Date start": 43647,
+    "Date end": 43677,
+    "Year": 2019,
+    "Month": 7,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 19.727
+  },
+  {
+    "Date start": 43647,
+    "Date end": 43677,
+    "Year": 2019,
+    "Month": 7,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 12.966
+  },
+  {
+    "Date start": 43647,
+    "Date end": 43677,
+    "Year": 2019,
+    "Month": 7,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 10.573
+  },
+  {
+    "Date start": 43678,
+    "Date end": 43708,
+    "Year": 2019,
+    "Month": 8,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 409.843
+  },
+  {
+    "Date start": 43678,
+    "Date end": 43708,
+    "Year": 2019,
+    "Month": 8,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 146.06
+  },
+  {
+    "Date start": 43678,
+    "Date end": 43708,
+    "Year": 2019,
+    "Month": 8,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 22.485
+  },
+  {
+    "Date start": 43678,
+    "Date end": 43708,
+    "Year": 2019,
+    "Month": 8,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 10.711
+  },
+  {
+    "Date start": 43678,
+    "Date end": 43708,
+    "Year": 2019,
+    "Month": 8,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 10.119
+  },
+  {
+    "Date start": 43709,
+    "Date end": 43738,
+    "Year": 2019,
+    "Month": 9,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 347.456
+  },
+  {
+    "Date start": 43709,
+    "Date end": 43738,
+    "Year": 2019,
+    "Month": 9,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 191.397
+  },
+  {
+    "Date start": 43709,
+    "Date end": 43738,
+    "Year": 2019,
+    "Month": 9,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 23.438
+  },
+  {
+    "Date start": 43709,
+    "Date end": 43738,
+    "Year": 2019,
+    "Month": 9,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 12.117
+  },
+  {
+    "Date start": 43709,
+    "Date end": 43738,
+    "Year": 2019,
+    "Month": 9,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 8.637
+  },
+  {
+    "Date start": 43739,
+    "Date end": 43769,
+    "Year": 2019,
+    "Month": 10,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 279.926
+  },
+  {
+    "Date start": 43739,
+    "Date end": 43769,
+    "Year": 2019,
+    "Month": 10,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 116.734
+  },
+  {
+    "Date start": 43739,
+    "Date end": 43769,
+    "Year": 2019,
+    "Month": 10,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 25.172
+  },
+  {
+    "Date start": 43739,
+    "Date end": 43769,
+    "Year": 2019,
+    "Month": 10,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 13.369
+  },
+  {
+    "Date start": 43739,
+    "Date end": 43769,
+    "Year": 2019,
+    "Month": 10,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 13.146
+  },
+  {
+    "Date start": 43770,
+    "Date end": 43799,
+    "Year": 2019,
+    "Month": 11,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 135.573
+  },
+  {
+    "Date start": 43770,
+    "Date end": 43799,
+    "Year": 2019,
+    "Month": 11,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 338.522
+  },
+  {
+    "Date start": 43770,
+    "Date end": 43799,
+    "Year": 2019,
+    "Month": 11,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 25.903
+  },
+  {
+    "Date start": 43770,
+    "Date end": 43799,
+    "Year": 2019,
+    "Month": 11,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 17.216
+  },
+  {
+    "Date start": 43770,
+    "Date end": 43799,
+    "Year": 2019,
+    "Month": 11,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 12.158
+  },
+  {
+    "Date start": 43800,
+    "Date end": 43830,
+    "Year": 2019,
+    "Month": 12,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 102.493
+  },
+  {
+    "Date start": 43800,
+    "Date end": 43830,
+    "Year": 2019,
+    "Month": 12,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 290.621
+  },
+  {
+    "Date start": 43800,
+    "Date end": 43830,
+    "Year": 2019,
+    "Month": 12,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 30.392
+  },
+  {
+    "Date start": 43800,
+    "Date end": 43830,
+    "Year": 2019,
+    "Month": 12,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 20.592
+  },
+  {
+    "Date start": 43800,
+    "Date end": 43830,
+    "Year": 2019,
+    "Month": 12,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 18.731
+  },
+  {
+    "Date start": 43831,
+    "Date end": 43861,
+    "Year": 2020,
+    "Month": 1,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 157.368
+  },
+  {
+    "Date start": 43831,
+    "Date end": 43861,
+    "Year": 2020,
+    "Month": 1,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 278.167
+  },
+  {
+    "Date start": 43831,
+    "Date end": 43861,
+    "Year": 2020,
+    "Month": 1,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 34.934
+  },
+  {
+    "Date start": 43831,
+    "Date end": 43861,
+    "Year": 2020,
+    "Month": 1,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 20.727
+  },
+  {
+    "Date start": 43831,
+    "Date end": 43861,
+    "Year": 2020,
+    "Month": 1,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 15.878
+  },
+  {
+    "Date start": 43862,
+    "Date end": 43890,
+    "Year": 2020,
+    "Month": 2,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 260.11
+  },
+  {
+    "Date start": 43862,
+    "Date end": 43890,
+    "Year": 2020,
+    "Month": 2,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 352.086
+  },
+  {
+    "Date start": 43862,
+    "Date end": 43890,
+    "Year": 2020,
+    "Month": 2,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 32.258
+  },
+  {
+    "Date start": 43862,
+    "Date end": 43890,
+    "Year": 2020,
+    "Month": 2,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 21.062
+  },
+  {
+    "Date start": 43862,
+    "Date end": 43890,
+    "Year": 2020,
+    "Month": 2,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 19.408
+  },
+  {
+    "Date start": 43891,
+    "Date end": 43921,
+    "Year": 2020,
+    "Month": 3,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 503.059
+  },
+  {
+    "Date start": 43891,
+    "Date end": 43921,
+    "Year": 2020,
+    "Month": 3,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 364.184
+  },
+  {
+    "Date start": 43891,
+    "Date end": 43921,
+    "Year": 2020,
+    "Month": 3,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 35.217
+  },
+  {
+    "Date start": 43891,
+    "Date end": 43921,
+    "Year": 2020,
+    "Month": 3,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 25.743
+  },
+  {
+    "Date start": 43891,
+    "Date end": 43921,
+    "Year": 2020,
+    "Month": 3,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 21.53
+  },
+  {
+    "Date start": 43922,
+    "Date end": 43951,
+    "Year": 2020,
+    "Month": 4,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 723.649
+  },
+  {
+    "Date start": 43922,
+    "Date end": 43951,
+    "Year": 2020,
+    "Month": 4,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 264.118
+  },
+  {
+    "Date start": 43922,
+    "Date end": 43951,
+    "Year": 2020,
+    "Month": 4,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 35.795
+  },
+  {
+    "Date start": 43922,
+    "Date end": 43951,
+    "Year": 2020,
+    "Month": 4,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 23.541
+  },
+  {
+    "Date start": 43922,
+    "Date end": 43951,
+    "Year": 2020,
+    "Month": 4,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 17.097
+  },
+  {
+    "Date start": 43952,
+    "Date end": 43982,
+    "Year": 2020,
+    "Month": 5,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 621.695
+  },
+  {
+    "Date start": 43952,
+    "Date end": 43982,
+    "Year": 2020,
+    "Month": 5,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 220.439
+  },
+  {
+    "Date start": 43952,
+    "Date end": 43982,
+    "Year": 2020,
+    "Month": 5,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 39.878
+  },
+  {
+    "Date start": 43952,
+    "Date end": 43982,
+    "Year": 2020,
+    "Month": 5,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 19.549
+  },
+  {
+    "Date start": 43952,
+    "Date end": 43982,
+    "Year": 2020,
+    "Month": 5,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 19.487
+  },
+  {
+    "Date start": 43983,
+    "Date end": 44012,
+    "Year": 2020,
+    "Month": 6,
+    "Power plant type": "Solar",
+    "Generated electricity amount, million kWh": 734.062
+  },
+  {
+    "Date start": 43983,
+    "Date end": 44012,
+    "Year": 2020,
+    "Month": 6,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 182.4
+  },
+  {
+    "Date start": 43983,
+    "Date end": 44012,
+    "Year": 2020,
+    "Month": 6,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 35.627
+  },
+  {
+    "Date start": 43983,
+    "Date end": 44012,
+    "Year": 2020,
+    "Month": 6,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 24.204
+  },
+  {
+    "Date start": 43983,
+    "Date end": 44012,
+    "Year": 2020,
+    "Month": 6,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 24.198
+  },
+  {
+    "Date start": 44013,
+    "Date end": 44043,
+    "Year": 2020,
+    "Month": 7,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 793.3539999999999
+  },
+  {
+    "Date start": 44013,
+    "Date end": 44043,
+    "Year": 2020,
+    "Month": 7,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 14.781
+  },
+  {
+    "Date start": 44013,
+    "Date end": 44043,
+    "Year": 2020,
+    "Month": 7,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 200.507
+  },
+  {
+    "Date start": 44013,
+    "Date end": 44043,
+    "Year": 2020,
+    "Month": 7,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 36.285
+  },
+  {
+    "Date start": 44013,
+    "Date end": 44043,
+    "Year": 2020,
+    "Month": 7,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 28.023
+  },
+  {
+    "Date start": 44013,
+    "Date end": 44043,
+    "Year": 2020,
+    "Month": 7,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 17.243
+  },
+  {
+    "Date start": 44044,
+    "Date end": 44074,
+    "Year": 2020,
+    "Month": 8,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 827.1660000000004
+  },
+  {
+    "Date start": 44044,
+    "Date end": 44074,
+    "Year": 2020,
+    "Month": 8,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 15.616
+  },
+  {
+    "Date start": 44044,
+    "Date end": 44074,
+    "Year": 2020,
+    "Month": 8,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 174.137
+  },
+  {
+    "Date start": 44044,
+    "Date end": 44074,
+    "Year": 2020,
+    "Month": 8,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 36.641
+  },
+  {
+    "Date start": 44044,
+    "Date end": 44074,
+    "Year": 2020,
+    "Month": 8,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 23.588
+  },
+  {
+    "Date start": 44044,
+    "Date end": 44074,
+    "Year": 2020,
+    "Month": 8,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 10.151
+  },
+  {
+    "Date start": 44075,
+    "Date end": 44104,
+    "Year": 2020,
+    "Month": 9,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 674.73
+  },
+  {
+    "Date start": 44075,
+    "Date end": 44104,
+    "Year": 2020,
+    "Month": 9,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 11.806
+  },
+  {
+    "Date start": 44075,
+    "Date end": 44104,
+    "Year": 2020,
+    "Month": 9,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 240.045
+  },
+  {
+    "Date start": 44075,
+    "Date end": 44104,
+    "Year": 2020,
+    "Month": 9,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 37.073
+  },
+  {
+    "Date start": 44075,
+    "Date end": 44104,
+    "Year": 2020,
+    "Month": 9,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 27.543
+  },
+  {
+    "Date start": 44075,
+    "Date end": 44104,
+    "Year": 2020,
+    "Month": 9,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 8.081
+  },
+  {
+    "Date start": 44105,
+    "Date end": 44135,
+    "Year": 2020,
+    "Month": 10,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 406.7960000000003
+  },
+  {
+    "Date start": 44105,
+    "Date end": 44135,
+    "Year": 2020,
+    "Month": 10,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 6.109999999999995
+  },
+  {
+    "Date start": 44105,
+    "Date end": 44135,
+    "Year": 2020,
+    "Month": 10,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 285.418
+  },
+  {
+    "Date start": 44105,
+    "Date end": 44135,
+    "Year": 2020,
+    "Month": 10,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 42.47999999999999
+  },
+  {
+    "Date start": 44105,
+    "Date end": 44135,
+    "Year": 2020,
+    "Month": 10,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 28.206
+  },
+  {
+    "Date start": 44105,
+    "Date end": 44135,
+    "Year": 2020,
+    "Month": 10,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 18.511
+  },
+  {
+    "Date start": 44136,
+    "Date end": 44165,
+    "Year": 2020,
+    "Month": 11,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 172.8520000000001
+  },
+  {
+    "Date start": 44136,
+    "Date end": 44165,
+    "Year": 2020,
+    "Month": 11,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 2.548999999999997
+  },
+  {
+    "Date start": 44136,
+    "Date end": 44165,
+    "Year": 2020,
+    "Month": 11,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 245.209
+  },
+  {
+    "Date start": 44136,
+    "Date end": 44165,
+    "Year": 2020,
+    "Month": 11,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 43.133
+  },
+  {
+    "Date start": 44136,
+    "Date end": 44165,
+    "Year": 2020,
+    "Month": 11,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 27.809
+  },
+  {
+    "Date start": 44136,
+    "Date end": 44165,
+    "Year": 2020,
+    "Month": 11,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 16.223
+  },
+  {
+    "Date start": 44166,
+    "Date end": 44196,
+    "Year": 2020,
+    "Month": 12,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 82.47100000000006
+  },
+  {
+    "Date start": 44166,
+    "Date end": 44196,
+    "Year": 2020,
+    "Month": 12,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 1.215999999999999
+  },
+  {
+    "Date start": 44166,
+    "Date end": 44196,
+    "Year": 2020,
+    "Month": 12,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 444.8609999999999
+  },
+  {
+    "Date start": 44166,
+    "Date end": 44196,
+    "Year": 2020,
+    "Month": 12,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 45.12200000000001
+  },
+  {
+    "Date start": 44166,
+    "Date end": 44196,
+    "Year": 2020,
+    "Month": 12,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 31.842
+  },
+  {
+    "Date start": 44166,
+    "Date end": 44196,
+    "Year": 2020,
+    "Month": 12,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 15.643
+  },
+  {
+    "Date start": 44197,
+    "Date end": 44227,
+    "Year": 2021,
+    "Month": 1,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 145.0270000000001
+  },
+  {
+    "Date start": 44197,
+    "Date end": 44227,
+    "Year": 2021,
+    "Month": 1,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 1.700999999999996
+  },
+  {
+    "Date start": 44197,
+    "Date end": 44227,
+    "Year": 2021,
+    "Month": 1,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 389.6730000000001
+  },
+  {
+    "Date start": 44197,
+    "Date end": 44227,
+    "Year": 2021,
+    "Month": 1,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 45.746
+  },
+  {
+    "Date start": 44197,
+    "Date end": 44227,
+    "Year": 2021,
+    "Month": 1,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 28.15800000000001
+  },
+  {
+    "Date start": 44197,
+    "Date end": 44227,
+    "Year": 2021,
+    "Month": 1,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 20.271
+  },
+  {
+    "Date start": 44228,
+    "Date end": 44255,
+    "Year": 2021,
+    "Month": 2,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 267.2689999999996
+  },
+  {
+    "Date start": 44228,
+    "Date end": 44255,
+    "Year": 2021,
+    "Month": 2,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 2.824518999999995
+  },
+  {
+    "Date start": 44228,
+    "Date end": 44255,
+    "Year": 2021,
+    "Month": 2,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 326.274
+  },
+  {
+    "Date start": 44228,
+    "Date end": 44255,
+    "Year": 2021,
+    "Month": 2,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 40.651
+  },
+  {
+    "Date start": 44228,
+    "Date end": 44255,
+    "Year": 2021,
+    "Month": 2,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 28.733
+  },
+  {
+    "Date start": 44228,
+    "Date end": 44255,
+    "Year": 2021,
+    "Month": 2,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 21.78900000000001
+  },
+  {
+    "Date start": 44256,
+    "Date end": 44286,
+    "Year": 2021,
+    "Month": 3,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 514.5079999999999
+  },
+  {
+    "Date start": 44256,
+    "Date end": 44286,
+    "Year": 2021,
+    "Month": 3,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 8.994999999999996
+  },
+  {
+    "Date start": 44256,
+    "Date end": 44286,
+    "Year": 2021,
+    "Month": 3,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 325.172
+  },
+  {
+    "Date start": 44256,
+    "Date end": 44286,
+    "Year": 2021,
+    "Month": 3,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 46.599
+  },
+  {
+    "Date start": 44256,
+    "Date end": 44286,
+    "Year": 2021,
+    "Month": 3,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 34.403
+  },
+  {
+    "Date start": 44256,
+    "Date end": 44286,
+    "Year": 2021,
+    "Month": 3,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 33.317
+  },
+  {
+    "Date start": 44287,
+    "Date end": 44316,
+    "Year": 2021,
+    "Month": 4,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 568.7110000000002
+  },
+  {
+    "Date start": 44287,
+    "Date end": 44316,
+    "Year": 2021,
+    "Month": 4,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 12.309
+  },
+  {
+    "Date start": 44287,
+    "Date end": 44316,
+    "Year": 2021,
+    "Month": 4,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 242.884
+  },
+  {
+    "Date start": 44287,
+    "Date end": 44316,
+    "Year": 2021,
+    "Month": 4,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 47.252
+  },
+  {
+    "Date start": 44287,
+    "Date end": 44316,
+    "Year": 2021,
+    "Month": 4,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 32.89400000000001
+  },
+  {
+    "Date start": 44287,
+    "Date end": 44316,
+    "Year": 2021,
+    "Month": 4,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 31.489
+  },
+  {
+    "Date start": 44317,
+    "Date end": 44347,
+    "Year": 2021,
+    "Month": 5,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 679.7940000000002
+  },
+  {
+    "Date start": 44317,
+    "Date end": 44347,
+    "Year": 2021,
+    "Month": 5,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 16.44799999999999
+  },
+  {
+    "Date start": 44317,
+    "Date end": 44347,
+    "Year": 2021,
+    "Month": 5,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 241.501
+  },
+  {
+    "Date start": 44317,
+    "Date end": 44347,
+    "Year": 2021,
+    "Month": 5,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 48.56400000000001
+  },
+  {
+    "Date start": 44317,
+    "Date end": 44347,
+    "Year": 2021,
+    "Month": 5,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 31.72600000000001
+  },
+  {
+    "Date start": 44317,
+    "Date end": 44347,
+    "Year": 2021,
+    "Month": 5,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 30.45300000000002
+  },
+  {
+    "Date start": 44348,
+    "Date end": 44377,
+    "Year": 2021,
+    "Month": 6,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 736.4070000000003
+  },
+  {
+    "Date start": 44348,
+    "Date end": 44377,
+    "Year": 2021,
+    "Month": 6,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 17.52800000000001
+  },
+  {
+    "Date start": 44348,
+    "Date end": 44377,
+    "Year": 2021,
+    "Month": 6,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 204.773
+  },
+  {
+    "Date start": 44348,
+    "Date end": 44377,
+    "Year": 2021,
+    "Month": 6,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 46.42099999999999
+  },
+  {
+    "Date start": 44348,
+    "Date end": 44377,
+    "Year": 2021,
+    "Month": 6,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 27.451
+  },
+  {
+    "Date start": 44348,
+    "Date end": 44377,
+    "Year": 2021,
+    "Month": 6,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 26.33999999999999
+  },
+  {
+    "Date start": 44378,
+    "Date end": 44408,
+    "Year": 2021,
+    "Month": 7,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 925.2500000000008
+  },
+  {
+    "Date start": 44378,
+    "Date end": 44408,
+    "Year": 2021,
+    "Month": 7,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 19.223
+  },
+  {
+    "Date start": 44378,
+    "Date end": 44408,
+    "Year": 2021,
+    "Month": 7,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 228.294
+  },
+  {
+    "Date start": 44378,
+    "Date end": 44408,
+    "Year": 2021,
+    "Month": 7,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 45.20700000000001
+  },
+  {
+    "Date start": 44378,
+    "Date end": 44408,
+    "Year": 2021,
+    "Month": 7,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 28.573
+  },
+  {
+    "Date start": 44378,
+    "Date end": 44408,
+    "Year": 2021,
+    "Month": 7,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 16.636
+  },
+  {
+    "Date start": 44409,
+    "Date end": 44439,
+    "Year": 2021,
+    "Month": 8,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 851.1560000000005
+  },
+  {
+    "Date start": 44409,
+    "Date end": 44439,
+    "Year": 2021,
+    "Month": 8,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 16.758
+  },
+  {
+    "Date start": 44409,
+    "Date end": 44439,
+    "Year": 2021,
+    "Month": 8,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 250.643
+  },
+  {
+    "Date start": 44409,
+    "Date end": 44439,
+    "Year": 2021,
+    "Month": 8,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 44.523
+  },
+  {
+    "Date start": 44409,
+    "Date end": 44439,
+    "Year": 2021,
+    "Month": 8,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 30.866
+  },
+  {
+    "Date start": 44409,
+    "Date end": 44439,
+    "Year": 2021,
+    "Month": 8,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 12.224
+  },
+  {
+    "Date start": 44440,
+    "Date end": 44469,
+    "Year": 2021,
+    "Month": 9,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 640.2919999999999
+  },
+  {
+    "Date start": 44440,
+    "Date end": 44469,
+    "Year": 2021,
+    "Month": 9,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 12.121184
+  },
+  {
+    "Date start": 44440,
+    "Date end": 44469,
+    "Year": 2021,
+    "Month": 9,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 310.372
+  },
+  {
+    "Date start": 44440,
+    "Date end": 44469,
+    "Year": 2021,
+    "Month": 9,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 43.30599999999998
+  },
+  {
+    "Date start": 44440,
+    "Date end": 44469,
+    "Year": 2021,
+    "Month": 9,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 30.68
+  },
+  {
+    "Date start": 44440,
+    "Date end": 44469,
+    "Year": 2021,
+    "Month": 9,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 14.433
+  },
+  {
+    "Date start": 44470,
+    "Date end": 44500,
+    "Year": 2021,
+    "Month": 10,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 604.5439999999998
+  },
+  {
+    "Date start": 44470,
+    "Date end": 44500,
+    "Year": 2021,
+    "Month": 10,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 9.994999999999994
+  },
+  {
+    "Date start": 44470,
+    "Date end": 44500,
+    "Year": 2021,
+    "Month": 10,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 470.6910000000001
+  },
+  {
+    "Date start": 44470,
+    "Date end": 44500,
+    "Year": 2021,
+    "Month": 10,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 46.038
+  },
+  {
+    "Date start": 44470,
+    "Date end": 44500,
+    "Year": 2021,
+    "Month": 10,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 35.763
+  },
+  {
+    "Date start": 44470,
+    "Date end": 44500,
+    "Year": 2021,
+    "Month": 10,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 18.359
+  },
+  {
+    "Date start": 44501,
+    "Date end": 44530,
+    "Year": 2021,
+    "Month": 11,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 287.6570000000002
+  },
+  {
+    "Date start": 44501,
+    "Date end": 44530,
+    "Year": 2021,
+    "Month": 11,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 4.265999999999996
+  },
+  {
+    "Date start": 44501,
+    "Date end": 44530,
+    "Year": 2021,
+    "Month": 11,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 363.4359999999999
+  },
+  {
+    "Date start": 44501,
+    "Date end": 44530,
+    "Year": 2021,
+    "Month": 11,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 45.333
+  },
+  {
+    "Date start": 44501,
+    "Date end": 44530,
+    "Year": 2021,
+    "Month": 11,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 40.91099999999999
+  },
+  {
+    "Date start": 44501,
+    "Date end": 44530,
+    "Year": 2021,
+    "Month": 11,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 17.622
+  },
+  {
+    "Date start": 44531,
+    "Date end": 44561,
+    "Year": 2021,
+    "Month": 12,
+    "Power plant type": "Solar",
+    "Power plant subtype": "ground mounted power plants",
+    "Generated electricity amount, million kWh": 85.8698660000001
+  },
+  {
+    "Date start": 44531,
+    "Date end": 44561,
+    "Year": 2021,
+    "Month": 12,
+    "Power plant type": "Solar",
+    "Power plant subtype": "roof and facade mounted power plants",
+    "Generated electricity amount, million kWh": 1.025576
+  },
+  {
+    "Date start": 44531,
+    "Date end": 44561,
+    "Year": 2021,
+    "Month": 12,
+    "Power plant type": "Wind",
+    "Generated electricity amount, million kWh": 450.46
+  },
+  {
+    "Date start": 44531,
+    "Date end": 44561,
+    "Year": 2021,
+    "Month": 12,
+    "Power plant type": "Biogas",
+    "Generated electricity amount, million kWh": 53.605
+  },
+  {
+    "Date start": 44531,
+    "Date end": 44561,
+    "Year": 2021,
+    "Month": 12,
+    "Power plant type": "Biomass",
+    "Generated electricity amount, million kWh": 39.227
+  },
+  {
+    "Date start": 44531,
+    "Date end": 44561,
+    "Year": 2021,
+    "Month": 12,
+    "Power plant type": "Hydro",
+    "Generated electricity amount, million kWh": 22.979069
+  }
+]

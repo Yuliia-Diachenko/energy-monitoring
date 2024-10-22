@@ -1,0 +1,212 @@
+[
+  {
+    "Date start": 42370,
+    "Date end": 42735,
+    "Year": 2016,
+    "Power plant type": "heat power plants",
+    "Heat output amount": 1699
+  },
+  {
+    "Date start": 42370,
+    "Date end": 42735,
+    "Year": 2016,
+    "Power plant type": "combined heat and power plants",
+    "Heat output amount": 29879
+  },
+  {
+    "Date start": 42370,
+    "Date end": 42735,
+    "Year": 2016,
+    "Power plant type": "nuclear power plants ",
+    "Heat output amount": 1514
+  },
+  {
+    "Date start": 42370,
+    "Date end": 42735,
+    "Year": 2016,
+    "Power plant type": "heat plants",
+    "Heat output amount": 60194
+  },
+  {
+    "Date start": 42370,
+    "Date end": 42735,
+    "Year": 2016,
+    "Power plant type": "utilization units",
+    "Heat output amount": 4583
+  },
+  {
+    "Date start": 42370,
+    "Date end": 42735,
+    "Year": 2016,
+    "Power plant type": "other units",
+    "Heat output amount": 1087
+  },
+  {
+    "Date start": 42736,
+    "Date end": 43100,
+    "Year": 2017,
+    "Power plant type": "heat power plants",
+    "Heat output amount": 1476.449
+  },
+  {
+    "Date start": 42736,
+    "Date end": 43100,
+    "Year": 2017,
+    "Power plant type": "combined heat and power plants",
+    "Heat output amount": 29092.918
+  },
+  {
+    "Date start": 42736,
+    "Date end": 43100,
+    "Year": 2017,
+    "Power plant type": "nuclear power plants ",
+    "Heat output amount": 1511.481
+  },
+  {
+    "Date start": 42736,
+    "Date end": 43100,
+    "Year": 2017,
+    "Power plant type": "heat plants",
+    "Heat output amount": 55837.2
+  },
+  {
+    "Date start": 42736,
+    "Date end": 43100,
+    "Year": 2017,
+    "Power plant type": "utilization units",
+    "Heat output amount": 4357.121
+  },
+  {
+    "Date start": 42736,
+    "Date end": 43100,
+    "Year": 2017,
+    "Power plant type": "other units",
+    "Heat output amount": 1019
+  },
+  {
+    "Date start": 43101,
+    "Date end": 43465,
+    "Year": 2018,
+    "Power plant type": "heat power plants",
+    "Heat output amount": 1516.7744
+  },
+  {
+    "Date start": 43101,
+    "Date end": 43465,
+    "Year": 2018,
+    "Power plant type": "combined heat and power plants",
+    "Heat output amount": 29088.6398
+  },
+  {
+    "Date start": 43101,
+    "Date end": 43465,
+    "Year": 2018,
+    "Power plant type": "nuclear power plants ",
+    "Heat output amount": 1541.745
+  },
+  {
+    "Date start": 43101,
+    "Date end": 43465,
+    "Year": 2018,
+    "Power plant type": "heat plants",
+    "Heat output amount": 59261.4964
+  },
+  {
+    "Date start": 43101,
+    "Date end": 43465,
+    "Year": 2018,
+    "Power plant type": "utilization units",
+    "Heat output amount": 5336.1769
+  },
+  {
+    "Date start": 43101,
+    "Date end": 43465,
+    "Year": 2018,
+    "Power plant type": "other units",
+    "Heat output amount": 1048.9939
+  },
+  {
+    "Date start": 43466,
+    "Date end": 43830,
+    "Year": 2019,
+    "Power plant type": "heat power plants",
+    "Heat output amount": 1240.8826
+  },
+  {
+    "Date start": 43466,
+    "Date end": 43830,
+    "Year": 2019,
+    "Power plant type": "combined heat and power plants",
+    "Heat output amount": 26733.0867
+  },
+  {
+    "Date start": 43466,
+    "Date end": 43830,
+    "Year": 2019,
+    "Power plant type": "nuclear power plants ",
+    "Heat output amount": 1442.663
+  },
+  {
+    "Date start": 43466,
+    "Date end": 43830,
+    "Year": 2019,
+    "Power plant type": "heat plants",
+    "Heat output amount": 53953.8114
+  },
+  {
+    "Date start": 43466,
+    "Date end": 43830,
+    "Year": 2019,
+    "Power plant type": "utilization units",
+    "Heat output amount": 6655.5549
+  },
+  {
+    "Date start": 43466,
+    "Date end": 43830,
+    "Year": 2019,
+    "Power plant type": "other units",
+    "Heat output amount": 982.8903
+  },
+  {
+    "Date start": 43831,
+    "Date end": 44196,
+    "Year": 2020,
+    "Power plant type": "heat power plants",
+    "Heat output amount": 1125.0628
+  },
+  {
+    "Date start": 43831,
+    "Date end": 44196,
+    "Year": 2020,
+    "Power plant type": "combined heat and power plants",
+    "Heat output amount": 25517.1152
+  },
+  {
+    "Date start": 43831,
+    "Date end": 44196,
+    "Year": 2020,
+    "Power plant type": "nuclear power plants ",
+    "Heat output amount": 1387.427
+  },
+  {
+    "Date start": 43831,
+    "Date end": 44196,
+    "Year": 2020,
+    "Power plant type": "heat plants",
+    "Heat output amount": 52954.3851
+  },
+  {
+    "Date start": 43831,
+    "Date end": 44196,
+    "Year": 2020,
+    "Power plant type": "utilization units",
+    "Heat output amount": 7087.5903
+  },
+  {
+    "Date start": 43831,
+    "Date end": 44196,
+    "Year": 2020,
+    "Power plant type": "other units",
+    "Heat output amount": 882.5256
+  }
+]
