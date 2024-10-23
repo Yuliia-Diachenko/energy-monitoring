@@ -1,53 +1,42 @@
-import mongoose from 'mongoose';
+import { fileURLToPath } from 'url';
+import { dirname, join } from 'path';
+import fs from 'fs';
 
-mongoose.connect('mongodb+srv://zirkanew82:OpMUpP1dvcRQVaON@cluster0.nn973.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
-    { useNewUrlParser: true, useUnifiedTopology: true })
-  .then(() => console.log('Database connected successfully!'))
-  .catch(err => console.error('Database connection error:', err));
 
-const oldSchema = new mongoose.Schema({
-  'Date start': Date,
-  'Date end': Date,
-  'Year': Number,
-  'Month': Number,
-  'Power plant type': String,
-  'Generated electricity amount, million kWh': Number
+// Визначення поточної директорії
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+const files = [
+    // '../green/data.json',
+    '../thermal/data.json'
+];
+
+const toCamelCase = str => str.replace(/([-_ ][a-z])/gi, (match) => match.toUpperCase().replace('-', '').replace('_', '').replace(' ', ''));
+
+const transformKeys = obj => {
+    if (typeof obj !== 'object' || obj === null) {
+        return obj;
+    }
+
+    if (Array.isArray(obj)) {
+        return obj.map(transformKeys);
+    }
+
+    return Object.keys(obj).reduce((acc, key) => {
+        const camelCaseKey = toCamelCase(key);
+        acc[camelCaseKey] = transformKeys(obj[key]);
+        return acc;
+    }, {});
+};
+
+files.forEach(file => {
+    const filePath = join(__dirname, file); // Оновлено шлях до файлів
+    const rawData = fs.readFileSync(filePath);
+    const jsonData = JSON.parse(rawData);
+
+    const transformedData = transformKeys(jsonData);
+
+    fs.writeFileSync(filePath, JSON.stringify(transformedData, null, 2));
+    console.log(`Файл ${file} успішно оновлено!`);
 });
-
-const oldCollection = mongoose.model('OldCollection', oldSchema);
-
-const newSchema = new mongoose.Schema({
-  dateStart: Date,
-  dateEnd: Date,
-  year: Number,
-  month: Number,
-  powerPlantType: {
-    type: String,
-    enum: ['Biomass', 'Biogas', 'Solar', 'Wind', 'Hydro'],
-    default: 'personal'
-  },
-  generatedElectricityAmount: Number
-});
-
-const newCollection = mongoose.model('NewCollection', newSchema);
-
-async function updateData() {
-  const documents = await oldCollection.find();
-
-  const updatedDocuments = documents.map(doc => ({
-    dateStart: doc['Date start'],
-    dateEnd: doc['Date end'],
-    year: doc['Year'],
-    month: doc['Month'],
-    powerPlantType: doc['Power plant type'],
-    generatedElectricityAmount: doc['Generated electricity amount, million kWh']
-  }));
-
-  await newCollection.insertMany(updatedDocuments);
-  console.log('Дані успішно оновлені!');
-
-  await oldCollection.deleteMany();
-}
-
-updateData().catch(err => console.error(err)).finally(() => mongoose.connection.close());
-

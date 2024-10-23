@@ -11,11 +11,11 @@ const plantsGreenSchema = new mongoose.Schema(
       required: true,
     },
     year: {
-      type: Number, // змінив тип даних на Number, оскільки рік не є датою
+      type: Number,
       optional: true,
     },
     month: {
-      type: Number, // змінив тип даних на Number, оскільки місяць не є датою
+      type: Number,
       default: false,
     },
     powerPlantType: {
