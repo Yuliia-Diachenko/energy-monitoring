@@ -2,29 +2,29 @@ import mongoose from "mongoose";
 
 const plantsGreenSchema = new mongoose.Schema(
   {
-    dateStart: {
+    DateStart: {
       type: Date,
       required: true,
     },
-    dateEnd: {
+    DateEnd: {
       type: Date,
       required: true,
     },
-    year: {
+    Year: {
       type: Number,
       optional: true,
     },
-    month: {
+    Month: {
       type: Number,
       default: false,
     },
-    powerPlantType: {
+    PowerPlantType: {
       type: String,
       enum: ["Biomass", "Biogas", "Solar", "Wind", "Hydro"],
       required: true,
       default: "personal",
     },
-    generatedElectricityAmount: {
+    GeneratedElectricityAmount: {
       type: Number,
       default: false,
     },
@@ -32,4 +32,4 @@ const plantsGreenSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export const PlantsGreenCollection = mongoose.model("plantsGreen", plantsGreenSchema);
+export const PlantsGreenCollection = mongoose.model("Green", plantsGreenSchema);

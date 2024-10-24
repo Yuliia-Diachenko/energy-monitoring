@@ -2,19 +2,19 @@ import mongoose from "mongoose";
 
 const plantsThermalSchema = new mongoose.Schema(
   {
-    dateStart: {
+    DateStart: {
       type: Number,
       required: true,
     },
-    dateEnd: {
+    DateEnd: {
       type: Number,
       required: true,
     },
-    year: {
+    Year: {
       type: Number,
       required: true,
     },
-    powerPlantType: {
+    PowerPlantType: {
       type: String,
       enum: [
         "heat power plants",
@@ -26,7 +26,7 @@ const plantsThermalSchema = new mongoose.Schema(
       ],
       required: true,
     },
-    heatOutputAmount: {
+    HeatOutputAmount: {
       type: Number,
       required: true,
     }
@@ -34,4 +34,4 @@ const plantsThermalSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export const PlantsThermalCollection = mongoose.model("ThermalCollection", plantsThermalSchema);
+export const PlantsThermalCollection = mongoose.model("Thermal", plantsThermalSchema);

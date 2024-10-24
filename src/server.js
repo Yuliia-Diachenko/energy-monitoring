@@ -2,7 +2,10 @@ import express from 'express';
 import pino from 'pino-http';
 import cors from 'cors';
 import { env } from './utils/env.js';
-import { getAllContacts, getContactById } from './services/contacts.js';
+import greenRouter from './routers/green.js';
+import thermalRouter from './routers/thermal.js';
+import { notFoundHandler } from './middlewares/notFoundHandler.js';
+import { errorHandler } from './middlewares/errorHandler.js';
 
 const PORT = Number(env('PORT', '3000'));
 
@@ -19,38 +22,14 @@ export default async function setupServer() {
     }),
   );
 
-  app.get('/contacts', async (req, res) => {
-    const contacts = await getAllContacts();
+  app.use(greenRouter);
+  app.use(thermalRouter);
 
-    res.status(200).json({
-      status: 200,
-      message: "Successfully found contacts!",
-      data: contacts,
-    });
-  });
+  app.use('*', notFoundHandler);
+  app.use(errorHandler);
 
-  app.get('/contacts/:contactId', async (req, res, next) => {
-    const { contactId } = req.params;
-    const contact = await getContactById(contactId);
-
-    // Відповідь, якщо контакт не знайдено
-	if (!contact) {
-	  res.status(404).json({
-		  message: 'Contact not found',
-	  });
-	  return;
-	}
-
-	// Відповідь, якщо контакт знайдено
-    res.status(200).json({
-      status: 200,
-      message: `Successfully found contact with id ${contactId}!`,
-      data: contact,
-    });
-  });
-
-   app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+  app.listen(PORT, () => {
+    console.log(`Server is running on p ort ${PORT}`);
 });
 
 }
