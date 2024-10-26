@@ -1,13 +1,20 @@
 import { getAllGreenPlants, getGreenPlantById, createGreenPlant, deleteGreenPlant, updateGreenPlant } from '../services/plantsGreen.js';
 import createHttpError from 'http-errors';
 import { parsePaginationParams } from '../utils/parsePaginationParams.js';
+import { parseGreenSortParams } from '../utils/parseGreenSortParams.js';
+import { parseGreenFilterParams } from '../utils/parseGreenFilterParams.js';
 
 export const getGreenPlantsController = async (req, res, next) => {
     try {
       const { page, perPage } = parsePaginationParams(req.query);
+      const { sortBy, sortOrder } = parseGreenSortParams(req.query);
+      const filter = parseGreenFilterParams(req.query);
       const green = await getAllGreenPlants({
         page,
         perPage,
+        sortBy,
+        sortOrder,
+        filter,
       });
 
     res.status(200).json({

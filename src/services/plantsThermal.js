@@ -1,9 +1,56 @@
 import { PlantsThermalCollection } from "../db/models/plantsThermal.js";
+import { calculatePaginationData } from "../utils/calculatePaginationData.js";
+import { SORT_ORDER } from "../constants/index.js";
 
-export const getAllThermalPlants = async () => {
-  const thermal = await PlantsThermalCollection.find();
+export const getAllThermalPlants = async ({
+      page = 1,
+      perPage = 10,
+      sortOrder = SORT_ORDER.ASC,
+      sortBy = '_id',
+      filter = {},
+ }) => {
+  const limit = perPage;
+  const skip = (page - 1) * perPage;
 
-  return thermal;
+  const thermalQuery = PlantsThermalCollection.find();
+
+  if (filter.PowerPlantType) {
+    thermalQuery.where('PowerPlantType').equals(filter.PowerPlantType);
+  }
+  if (filter.minDateStart) {
+    thermalQuery.where('DateStart').gte(filter.minDateStart);
+  }
+  if (filter.maxDateStart) {
+    thermalQuery.where('DateStart').lte(filter.maxDateStart);
+  }
+  if (filter.maxDateEnd) {
+    thermalQuery.where('DateEnd').lte(filter.maxDateEnd);
+  }
+  if (filter.minDateEnd) {
+   thermalQuery.where('DateEnd').gte(filter.minDateEnd);
+  }
+
+  if (filter.maxHeatOutputAmount) {
+    thermalQuery.where('HeatOutputAmountt').lte(filter.maxHeatOutputAmount);
+  }
+  if (filter.minHeatOutputAmount) {
+    thermalQuery.where('HeatOutputAmount').gte(filter.minHeatOutputAmount);
+  }
+  const [thermalCount, thermal] = await Promise.all([
+    PlantsThermalCollection.find().merge(thermalQuery).countDocuments(),
+    thermalQuery
+      .skip(skip)
+      .limit(limit)
+      .sort({ [sortBy]: sortOrder })
+      .exec(),
+  ]);
+
+  const paginationData = calculatePaginationData(thermalCount, perPage, page);
+
+  return {
+    data: thermal,
+    ...paginationData,
+  };
 };
 
 export const getThermalPlantById = async (thermalPlantId) => {

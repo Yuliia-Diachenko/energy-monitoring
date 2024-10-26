@@ -1,27 +1,59 @@
 import { PlantsGreenCollection } from "../db/models/plantsGreen.js";
 import { calculatePaginationData } from "../utils/calculatePaginationData.js";
+import { SORT_ORDER } from "../constants/index.js";
 
-export const getAllGreenPlants = async ({ page, perPage }) => {
+export const getAllGreenPlants = async ({
+          page = 1,
+          perPage = 10,
+          sortOrder = SORT_ORDER.ASC,
+          sortBy = '_id',
+          filter = {},
+         }) => {
   const limit = perPage;
   const skip = (page - 1) * perPage;
 
   const greenQuery = PlantsGreenCollection.find();
-  const greenCount = await PlantsGreenCollection.find()
-      .merge(greenQuery)
-      .countDocuments();
+  if (filter.PowerPlantType) {
+    greenQuery.where('PowerPlantType').equals(filter.PowerPlantType);
+  }
+  if (filter.minDateStart) {
+    greenQuery.where('DateStart').gte(filter.minDateStart);
+  }
+  if (filter.maxDateStart) {
+    greenQuery.where('DateStart').lte(filter.maxDateStart);
+  }
+  if (filter.maxDateEnd) {
+    greenQuery.where('DateEnd').lte(filter.maxDateEnd);
+  }
+  if (filter.minDateEnd) {
+   greenQuery.where('DateEnd').gte(filter.minDateEnd);
+  }
+  if (filter. minGeneratedElectricityAmount) {
+    greenQuery.where('GeneratedElectricityAmount').gte(filter.minGeneratedElectricityAmount);
+  }
+  if (filter. maxGeneratedElectricityAmount) {
+    greenQuery.where('GeneratedElectricityAmount').lte(filter.maxGeneratedElectricityAmount);
+  }
 
-  const green = await greenQuery.skip(skip).limit(limit).exec();
+  const [greenCount, green] = await Promise.all([
+    PlantsGreenCollection.find().merge(greenQuery).countDocuments(),
+    greenQuery
+      .skip(skip)
+      .limit(limit)
+      .sort({ [sortBy]: sortOrder })
+      .exec(),
+  ]);
+
   const paginationData = calculatePaginationData(greenCount, perPage, page);
 
   return {
     data: green,
     ...paginationData,
-  };;
+  };
 };
 
 export const getGreenPlantById = async (greenPlantId) => {
   const greenOne = await PlantsGreenCollection.findById(greenPlantId);
-  console.log(`Запит на green з ID ${greenPlantId}:`, greenOne);
   return greenOne;
 };
 
