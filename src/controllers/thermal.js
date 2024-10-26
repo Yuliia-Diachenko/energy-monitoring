@@ -1,4 +1,4 @@
-import { getAllThermalPlants, getThermalPlantById } from '../services/plantsThermal.js';
+import { getAllThermalPlants, getThermalPlantById, createThermalPlant,  deleteThermalPlant, updateThermalPlant } from '../services/plantsThermal.js';
 import createHttpError from 'http-errors';
 
 export const getAllThermalPlantsController = async (req, res, next) => {
@@ -30,3 +30,56 @@ export const getAllThermalPlantsController = async (req, res, next) => {
       data: thermalOne,
     });
   };
+
+  export const createThermalPlantController = async (req, res, next) => {
+    const greenPlant = await createThermalPlant(req.body);
+
+    res.status(201).json({
+      status: 201,
+      message: `Successfully created a Thermal Plant!`,
+      data: greenPlant,
+  });
+ };
+
+
+ export const deleteThermalPlantController = async (req, res, next) => {
+  const { thermalPlantId } = req.params;
+  const greenOne = await  deleteThermalPlant(thermalPlantId);
+  if (!greenOne) {
+    next(createHttpError(404, 'Green Plant not found'));
+    return;
+  }
+  res.status(204).send();
+ };
+
+ export const upsertThermalPlantController = async (req, res, next) => {
+  const { thermalPlantId } = req.params;
+  const result = await updateThermalPlant(thermalPlantId, req.body, {
+    upsert: true,
+  });
+
+  if (!result) {
+    next(createHttpError(404, 'Thermal Plant not found'));
+    return;
+  };
+  const status = result.isNew ? 201 : 200;
+  res.status(status).json({
+        status,
+        message: `Successfully upserted a Thermal Plant!`,
+        data: result.thermalPlant,
+      });
+};
+
+export const patchThermalPlantController = async (req, res, next) => {
+  const { thermalPlantId } = req.params;
+  const result = await updateThermalPlant( thermalPlantId, req.body);
+  if (!result) {
+        next(createHttpError(404, 'Thermal Plant not found'));
+        return;
+      }
+      res.json({
+            status: 200,
+            message: `Successfully patched a Thermal Plant!`,
+            data: result.thermalPlant,
+          });
+};
