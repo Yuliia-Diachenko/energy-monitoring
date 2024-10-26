@@ -1,18 +1,17 @@
 import mongoose from "mongoose";
 
-const plantsGreenSchema = new mongoose.Schema(
-  {
+const plantsGreenSchema = new mongoose.Schema({
     DateStart: {
-      type: Date,
+      type: String,
       required: true,
     },
     DateEnd: {
-      type: Date,
+      type: String,
       required: true,
     },
     Year: {
       type: Number,
-      optional: true,
+      required: true,
     },
     Month: {
       type: Number,
@@ -22,14 +21,16 @@ const plantsGreenSchema = new mongoose.Schema(
       type: String,
       enum: ["Biomass", "Biogas", "Solar", "Wind", "Hydro"],
       required: true,
-      default: "personal",
     },
     GeneratedElectricityAmount: {
       type: Number,
-      default: false,
+      required: true,
     },
-  },
-  { timestamps: true }
-);
+    Unit: {
+      type: String,
+      required: true,
+      default: "MillionKWh",
+    }
+}, { timestamps: true });
 
 export const PlantsGreenCollection = mongoose.model("Green", plantsGreenSchema);

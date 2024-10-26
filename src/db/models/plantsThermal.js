@@ -1,13 +1,12 @@
 import mongoose from "mongoose";
 
-const plantsThermalSchema = new mongoose.Schema(
-  {
+const plantsThermalSchema = new mongoose.Schema({
     DateStart: {
-      type: Number,
+      type: String, // зміна типу на String для нового формату дати
       required: true,
     },
     DateEnd: {
-      type: Number,
+      type: String, // зміна типу на String для нового формату дати
       required: true,
     },
     Year: {
@@ -29,9 +28,12 @@ const plantsThermalSchema = new mongoose.Schema(
     HeatOutputAmount: {
       type: Number,
       required: true,
+    },
+    Unit: {
+      type: String,
+      required: true,
+      default: "MillionKWh",
     }
-  },
-  { timestamps: true }
-);
+}, { timestamps: true });
 
 export const PlantsThermalCollection = mongoose.model("Thermal", plantsThermalSchema);

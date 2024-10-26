@@ -1,9 +1,11 @@
 import { getAllThermalPlants, getThermalPlantById, createThermalPlant,  deleteThermalPlant, updateThermalPlant } from '../services/plantsThermal.js';
 import createHttpError from 'http-errors';
+import { parsePaginationParams } from '../utils/parsePaginationParams.js';
 
 export const getAllThermalPlantsController = async (req, res, next) => {
   try {
-    const thermal = await getAllThermalPlants();
+    const { page, perPage } = parsePaginationParams(req.query);
+    const thermal = await getAllThermalPlants({page, perPage});
 
     res.status(200).json({
       status: 200,

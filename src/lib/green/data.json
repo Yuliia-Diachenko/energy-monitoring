@@ -1,2582 +1,2900 @@
 [
   {
-    "DateStart": 42736,
-    "DateEnd": 42766,
+    "DateStart": "31.12.2016",
+    "DateEnd": "30.01.2017",
     "Year": 2017,
     "Month": 1,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 21.908
+    "GeneratedElectricityAmount": 21.908,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42736,
-    "DateEnd": 42766,
+    "DateStart": "31.12.2016",
+    "DateEnd": "30.01.2017",
     "Year": 2017,
     "Month": 1,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 79.186
+    "GeneratedElectricityAmount": 79.186,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42736,
-    "DateEnd": 42766,
+    "DateStart": "31.12.2016",
+    "DateEnd": "30.01.2017",
     "Year": 2017,
     "Month": 1,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 13.245
+    "GeneratedElectricityAmount": 13.245,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42736,
-    "DateEnd": 42766,
+    "DateStart": "31.12.2016",
+    "DateEnd": "30.01.2017",
     "Year": 2017,
     "Month": 1,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 8.235
+    "GeneratedElectricityAmount": 8.235,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42736,
-    "DateEnd": 42766,
+    "DateStart": "31.12.2016",
+    "DateEnd": "30.01.2017",
     "Year": 2017,
     "Month": 1,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 7.435
+    "GeneratedElectricityAmount": 7.435,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42767,
-    "DateEnd": 42794,
+    "DateStart": "31.01.2017",
+    "DateEnd": "27.02.2017",
     "Year": 2017,
     "Month": 2,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 32.744
+    "GeneratedElectricityAmount": 32.744,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42767,
-    "DateEnd": 42794,
+    "DateStart": "31.01.2017",
+    "DateEnd": "27.02.2017",
     "Year": 2017,
     "Month": 2,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 81.19399999999999
+    "GeneratedElectricityAmount": 81.19399999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42767,
-    "DateEnd": 42794,
+    "DateStart": "31.01.2017",
+    "DateEnd": "27.02.2017",
     "Year": 2017,
     "Month": 2,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 20.539
+    "GeneratedElectricityAmount": 20.539,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42767,
-    "DateEnd": 42794,
+    "DateStart": "31.01.2017",
+    "DateEnd": "27.02.2017",
     "Year": 2017,
     "Month": 2,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 6.809000000000001
+    "GeneratedElectricityAmount": 6.809000000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42767,
-    "DateEnd": 42794,
+    "DateStart": "31.01.2017",
+    "DateEnd": "27.02.2017",
     "Year": 2017,
     "Month": 2,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 6.595
+    "GeneratedElectricityAmount": 6.595,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42795,
-    "DateEnd": 42825,
+    "DateStart": "28.02.2017",
+    "DateEnd": "31.03.2017",
     "Year": 2017,
     "Month": 3,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 54.417
+    "GeneratedElectricityAmount": 54.417,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42795,
-    "DateEnd": 42825,
+    "DateStart": "28.02.2017",
+    "DateEnd": "31.03.2017",
     "Year": 2017,
     "Month": 3,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 99.16899999999998
+    "GeneratedElectricityAmount": 99.16899999999998,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42795,
-    "DateEnd": 42825,
+    "DateStart": "28.02.2017",
+    "DateEnd": "31.03.2017",
     "Year": 2017,
     "Month": 3,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 39.745
+    "GeneratedElectricityAmount": 39.745,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42795,
-    "DateEnd": 42825,
+    "DateStart": "28.02.2017",
+    "DateEnd": "31.03.2017",
     "Year": 2017,
     "Month": 3,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 8.361999999999998
+    "GeneratedElectricityAmount": 8.361999999999998,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42795,
-    "DateEnd": 42825,
+    "DateStart": "28.02.2017",
+    "DateEnd": "31.03.2017",
     "Year": 2017,
     "Month": 3,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 6.735999999999999
+    "GeneratedElectricityAmount": 6.735999999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42826,
-    "DateEnd": 42855,
+    "DateStart": "01.04.2017",
+    "DateEnd": "30.04.2017",
     "Year": 2017,
     "Month": 4,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 66.808
+    "GeneratedElectricityAmount": 66.808,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42826,
-    "DateEnd": 42855,
+    "DateStart": "01.04.2017",
+    "DateEnd": "30.04.2017",
     "Year": 2017,
     "Month": 4,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 74.642
+    "GeneratedElectricityAmount": 74.642,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42826,
-    "DateEnd": 42855,
+    "DateStart": "01.04.2017",
+    "DateEnd": "30.04.2017",
     "Year": 2017,
     "Month": 4,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 25.292
+    "GeneratedElectricityAmount": 25.292,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42826,
-    "DateEnd": 42855,
+    "DateStart": "01.04.2017",
+    "DateEnd": "30.04.2017",
     "Year": 2017,
     "Month": 4,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 9.11
+    "GeneratedElectricityAmount": 9.11,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42826,
-    "DateEnd": 42855,
+    "DateStart": "01.04.2017",
+    "DateEnd": "30.04.2017",
     "Year": 2017,
     "Month": 4,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 6.457000000000001
+    "GeneratedElectricityAmount": 6.457000000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42856,
-    "DateEnd": 42886,
+    "DateStart": "01.05.2017",
+    "DateEnd": "31.05.2017",
     "Year": 2017,
     "Month": 5,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 82.62599999999998
+    "GeneratedElectricityAmount": 82.62599999999998,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42856,
-    "DateEnd": 42886,
+    "DateStart": "01.05.2017",
+    "DateEnd": "31.05.2017",
     "Year": 2017,
     "Month": 5,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 55.42500000000001
+    "GeneratedElectricityAmount": 55.42500000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42856,
-    "DateEnd": 42886,
+    "DateStart": "01.05.2017",
+    "DateEnd": "31.05.2017",
     "Year": 2017,
     "Month": 5,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 17.63800000000001
+    "GeneratedElectricityAmount": 17.63800000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42856,
-    "DateEnd": 42886,
+    "DateStart": "01.05.2017",
+    "DateEnd": "31.05.2017",
     "Year": 2017,
     "Month": 5,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 9.182000000000002
+    "GeneratedElectricityAmount": 9.182000000000002,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42856,
-    "DateEnd": 42886,
+    "DateStart": "01.05.2017",
+    "DateEnd": "31.05.2017",
     "Year": 2017,
     "Month": 5,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 6.984000000000002
+    "GeneratedElectricityAmount": 6.984000000000002,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42887,
-    "DateEnd": 42916,
+    "DateStart": "01.06.2017",
+    "DateEnd": "30.06.2017",
     "Year": 2017,
     "Month": 6,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 92.21600000000001
+    "GeneratedElectricityAmount": 92.21600000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42887,
-    "DateEnd": 42916,
+    "DateStart": "01.06.2017",
+    "DateEnd": "30.06.2017",
     "Year": 2017,
     "Month": 6,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 49.697
+    "GeneratedElectricityAmount": 49.697,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42887,
-    "DateEnd": 42916,
+    "DateStart": "01.06.2017",
+    "DateEnd": "30.06.2017",
     "Year": 2017,
     "Month": 6,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 12.15600000000001
+    "GeneratedElectricityAmount": 12.15600000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42887,
-    "DateEnd": 42916,
+    "DateStart": "01.06.2017",
+    "DateEnd": "30.06.2017",
     "Year": 2017,
     "Month": 6,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 8.886000000000003
+    "GeneratedElectricityAmount": 8.886000000000003,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42887,
-    "DateEnd": 42916,
+    "DateStart": "01.06.2017",
+    "DateEnd": "30.06.2017",
     "Year": 2017,
     "Month": 6,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 7.713000000000001
+    "GeneratedElectricityAmount": 7.713000000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42917,
-    "DateEnd": 42947,
+    "DateStart": "01.07.2017",
+    "DateEnd": "31.07.2017",
     "Year": 2017,
     "Month": 7,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 95.17000000000002
+    "GeneratedElectricityAmount": 95.17000000000002,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42917,
-    "DateEnd": 42947,
+    "DateStart": "01.07.2017",
+    "DateEnd": "31.07.2017",
     "Year": 2017,
     "Month": 7,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 57.69900000000001
+    "GeneratedElectricityAmount": 57.69900000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42917,
-    "DateEnd": 42947,
+    "DateStart": "01.07.2017",
+    "DateEnd": "31.07.2017",
     "Year": 2017,
     "Month": 7,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 9.95999999999998
+    "GeneratedElectricityAmount": 9.95999999999998,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42917,
-    "DateEnd": 42947,
+    "DateStart": "01.07.2017",
+    "DateEnd": "31.07.2017",
     "Year": 2017,
     "Month": 7,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 8.509999999999998
+    "GeneratedElectricityAmount": 8.509999999999998,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42917,
-    "DateEnd": 42947,
+    "DateStart": "01.07.2017",
+    "DateEnd": "31.07.2017",
     "Year": 2017,
     "Month": 7,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 7.326000000000001
+    "GeneratedElectricityAmount": 7.326000000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42948,
-    "DateEnd": 42978,
+    "DateStart": "01.08.2017",
+    "DateEnd": "31.08.2017",
     "Year": 2017,
     "Month": 8,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 97.25199999999995
+    "GeneratedElectricityAmount": 97.25199999999995,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42948,
-    "DateEnd": 42978,
+    "DateStart": "01.08.2017",
+    "DateEnd": "31.08.2017",
     "Year": 2017,
     "Month": 8,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 83.65199999999999
+    "GeneratedElectricityAmount": 83.65199999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42948,
-    "DateEnd": 42978,
+    "DateStart": "01.08.2017",
+    "DateEnd": "31.08.2017",
     "Year": 2017,
     "Month": 8,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 8.527999999999999
+    "GeneratedElectricityAmount": 8.527999999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42948,
-    "DateEnd": 42978,
+    "DateStart": "01.08.2017",
+    "DateEnd": "31.08.2017",
     "Year": 2017,
     "Month": 8,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 7.428000000000004
+    "GeneratedElectricityAmount": 7.428000000000004,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42948,
-    "DateEnd": 42978,
+    "DateStart": "01.08.2017",
+    "DateEnd": "31.08.2017",
     "Year": 2017,
     "Month": 8,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 6.808999999999997
+    "GeneratedElectricityAmount": 6.808999999999997,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42979,
-    "DateEnd": 43008,
+    "DateStart": "01.09.2017",
+    "DateEnd": "30.09.2017",
     "Year": 2017,
     "Month": 9,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 80.85400000000004
+    "GeneratedElectricityAmount": 80.85400000000004,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42979,
-    "DateEnd": 43008,
+    "DateStart": "01.09.2017",
+    "DateEnd": "30.09.2017",
     "Year": 2017,
     "Month": 9,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 86.76099999999997
+    "GeneratedElectricityAmount": 86.76099999999997,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42979,
-    "DateEnd": 43008,
+    "DateStart": "01.09.2017",
+    "DateEnd": "30.09.2017",
     "Year": 2017,
     "Month": 9,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 9.54000000000002
+    "GeneratedElectricityAmount": 9.54000000000002,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42979,
-    "DateEnd": 43008,
+    "DateStart": "01.09.2017",
+    "DateEnd": "30.09.2017",
     "Year": 2017,
     "Month": 9,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 8.129999999999995
+    "GeneratedElectricityAmount": 8.129999999999995,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42979,
-    "DateEnd": 43008,
+    "DateStart": "01.09.2017",
+    "DateEnd": "30.09.2017",
     "Year": 2017,
     "Month": 9,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 7.825999999999993
+    "GeneratedElectricityAmount": 7.825999999999993,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43009,
-    "DateEnd": 43039,
+    "DateStart": "01.10.2017",
+    "DateEnd": "30.10.2017",
     "Year": 2017,
     "Month": 10,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 49.40300000000002
+    "GeneratedElectricityAmount": 49.40300000000002,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43009,
-    "DateEnd": 43039,
+    "DateStart": "01.10.2017",
+    "DateEnd": "30.10.2017",
     "Year": 2017,
     "Month": 10,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 95.52100000000007
+    "GeneratedElectricityAmount": 95.52100000000007,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43009,
-    "DateEnd": 43039,
+    "DateStart": "01.10.2017",
+    "DateEnd": "30.10.2017",
     "Year": 2017,
     "Month": 10,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 14.238
+    "GeneratedElectricityAmount": 14.238,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43009,
-    "DateEnd": 43039,
+    "DateStart": "01.10.2017",
+    "DateEnd": "30.10.2017",
     "Year": 2017,
     "Month": 10,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 8.838000000000008
+    "GeneratedElectricityAmount": 8.838000000000008,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43009,
-    "DateEnd": 43039,
+    "DateStart": "01.10.2017",
+    "DateEnd": "30.10.2017",
     "Year": 2017,
     "Month": 10,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 8.701000000000008
+    "GeneratedElectricityAmount": 8.701000000000008,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43040,
-    "DateEnd": 43069,
+    "DateStart": "31.10.2017",
+    "DateEnd": "29.11.2017",
     "Year": 2017,
     "Month": 11,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 22.54899999999998
+    "GeneratedElectricityAmount": 22.54899999999998,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43040,
-    "DateEnd": 43069,
+    "DateStart": "31.10.2017",
+    "DateEnd": "29.11.2017",
     "Year": 2017,
     "Month": 11,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 93.53300000000002
+    "GeneratedElectricityAmount": 93.53300000000002,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43040,
-    "DateEnd": 43069,
+    "DateStart": "31.10.2017",
+    "DateEnd": "29.11.2017",
     "Year": 2017,
     "Month": 11,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 19.934
+    "GeneratedElectricityAmount": 19.934,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43040,
-    "DateEnd": 43069,
+    "DateStart": "31.10.2017",
+    "DateEnd": "29.11.2017",
     "Year": 2017,
     "Month": 11,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 8.570999999999998
+    "GeneratedElectricityAmount": 8.570999999999998,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43040,
-    "DateEnd": 43069,
+    "DateStart": "31.10.2017",
+    "DateEnd": "29.11.2017",
     "Year": 2017,
     "Month": 11,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 8.239999999999995
+    "GeneratedElectricityAmount": 8.239999999999995,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43070,
-    "DateEnd": 43100,
+    "DateStart": "30.11.2017",
+    "DateEnd": "30.12.2017",
     "Year": 2017,
     "Month": 12,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 18.76300000000003
+    "GeneratedElectricityAmount": 18.76300000000003,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43070,
-    "DateEnd": 43100,
+    "DateStart": "30.11.2017",
+    "DateEnd": "30.12.2017",
     "Year": 2017,
     "Month": 12,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 117.067
+    "GeneratedElectricityAmount": 117.067,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43070,
-    "DateEnd": 43100,
+    "DateStart": "30.11.2017",
+    "DateEnd": "30.12.2017",
     "Year": 2017,
     "Month": 12,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 23.441
+    "GeneratedElectricityAmount": 23.441,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43070,
-    "DateEnd": 43100,
+    "DateStart": "30.11.2017",
+    "DateEnd": "30.12.2017",
     "Year": 2017,
     "Month": 12,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 9.991
+    "GeneratedElectricityAmount": 9.991,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43070,
-    "DateEnd": 43100,
+    "DateStart": "30.11.2017",
+    "DateEnd": "30.12.2017",
     "Year": 2017,
     "Month": 12,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 9.176000000000002
+    "GeneratedElectricityAmount": 9.176000000000002,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43101,
-    "DateEnd": 43131,
+    "DateStart": "31.12.2017",
+    "DateEnd": "30.01.2018",
     "Year": 2018,
     "Month": 1,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 26.335
+    "GeneratedElectricityAmount": 26.335,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43101,
-    "DateEnd": 43131,
+    "DateStart": "31.12.2017",
+    "DateEnd": "30.01.2018",
     "Year": 2018,
     "Month": 1,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 114.787
+    "GeneratedElectricityAmount": 114.787,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43101,
-    "DateEnd": 43131,
+    "DateStart": "31.12.2017",
+    "DateEnd": "30.01.2018",
     "Year": 2018,
     "Month": 1,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 24.173
+    "GeneratedElectricityAmount": 24.173,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43101,
-    "DateEnd": 43131,
+    "DateStart": "31.12.2017",
+    "DateEnd": "30.01.2018",
     "Year": 2018,
     "Month": 1,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 13.424
+    "GeneratedElectricityAmount": 13.424,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43101,
-    "DateEnd": 43131,
+    "DateStart": "31.12.2017",
+    "DateEnd": "30.01.2018",
     "Year": 2018,
     "Month": 1,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 8.767
+    "GeneratedElectricityAmount": 8.767,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43132,
-    "DateEnd": 43159,
+    "DateStart": "31.01.2018",
+    "DateEnd": "27.02.2018",
     "Year": 2018,
     "Month": 2,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 30.574
+    "GeneratedElectricityAmount": 30.574,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43132,
-    "DateEnd": 43159,
+    "DateStart": "31.01.2018",
+    "DateEnd": "27.02.2018",
     "Year": 2018,
     "Month": 2,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 96.748
+    "GeneratedElectricityAmount": 96.748,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43132,
-    "DateEnd": 43159,
+    "DateStart": "31.01.2018",
+    "DateEnd": "27.02.2018",
     "Year": 2018,
     "Month": 2,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 20.561
+    "GeneratedElectricityAmount": 20.561,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43132,
-    "DateEnd": 43159,
+    "DateStart": "31.01.2018",
+    "DateEnd": "27.02.2018",
     "Year": 2018,
     "Month": 2,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 13.055
+    "GeneratedElectricityAmount": 13.055,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43132,
-    "DateEnd": 43159,
+    "DateStart": "31.01.2018",
+    "DateEnd": "27.02.2018",
     "Year": 2018,
     "Month": 2,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 7.704
+    "GeneratedElectricityAmount": 7.704,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43160,
-    "DateEnd": 43190,
+    "DateStart": "28.02.2018",
+    "DateEnd": "31.03.2018",
     "Year": 2018,
     "Month": 3,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 64.402
+    "GeneratedElectricityAmount": 64.402,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43160,
-    "DateEnd": 43190,
+    "DateStart": "28.02.2018",
+    "DateEnd": "31.03.2018",
     "Year": 2018,
     "Month": 3,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 121.798
+    "GeneratedElectricityAmount": 121.798,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43160,
-    "DateEnd": 43190,
+    "DateStart": "28.02.2018",
+    "DateEnd": "31.03.2018",
     "Year": 2018,
     "Month": 3,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 34.158
+    "GeneratedElectricityAmount": 34.158,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43160,
-    "DateEnd": 43190,
+    "DateStart": "28.02.2018",
+    "DateEnd": "31.03.2018",
     "Year": 2018,
     "Month": 3,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 14.41
+    "GeneratedElectricityAmount": 14.41,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43160,
-    "DateEnd": 43190,
+    "DateStart": "28.02.2018",
+    "DateEnd": "31.03.2018",
     "Year": 2018,
     "Month": 3,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 7.544
+    "GeneratedElectricityAmount": 7.544,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43191,
-    "DateEnd": 43220,
+    "DateStart": "01.04.2018",
+    "DateEnd": "30.04.2018",
     "Year": 2018,
     "Month": 4,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 122.585
+    "GeneratedElectricityAmount": 122.585,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43191,
-    "DateEnd": 43220,
+    "DateStart": "01.04.2018",
+    "DateEnd": "30.04.2018",
     "Year": 2018,
     "Month": 4,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 100.046
+    "GeneratedElectricityAmount": 100.046,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43191,
-    "DateEnd": 43220,
+    "DateStart": "01.04.2018",
+    "DateEnd": "30.04.2018",
     "Year": 2018,
     "Month": 4,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 31.147
+    "GeneratedElectricityAmount": 31.147,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43191,
-    "DateEnd": 43220,
+    "DateStart": "01.04.2018",
+    "DateEnd": "30.04.2018",
     "Year": 2018,
     "Month": 4,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 12.796
+    "GeneratedElectricityAmount": 12.796,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43191,
-    "DateEnd": 43220,
+    "DateStart": "01.04.2018",
+    "DateEnd": "30.04.2018",
     "Year": 2018,
     "Month": 4,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 7.866
+    "GeneratedElectricityAmount": 7.866,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43221,
-    "DateEnd": 43251,
+    "DateStart": "01.05.2018",
+    "DateEnd": "31.05.2018",
     "Year": 2018,
     "Month": 5,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 131.634
+    "GeneratedElectricityAmount": 131.634,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43221,
-    "DateEnd": 43251,
+    "DateStart": "01.05.2018",
+    "DateEnd": "31.05.2018",
     "Year": 2018,
     "Month": 5,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 75.952
+    "GeneratedElectricityAmount": 75.952,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43221,
-    "DateEnd": 43251,
+    "DateStart": "01.05.2018",
+    "DateEnd": "31.05.2018",
     "Year": 2018,
     "Month": 5,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 16.167
+    "GeneratedElectricityAmount": 16.167,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43221,
-    "DateEnd": 43251,
+    "DateStart": "01.05.2018",
+    "DateEnd": "31.05.2018",
     "Year": 2018,
     "Month": 5,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 14.537
+    "GeneratedElectricityAmount": 14.537,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43221,
-    "DateEnd": 43251,
+    "DateStart": "01.05.2018",
+    "DateEnd": "31.05.2018",
     "Year": 2018,
     "Month": 5,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 9.046
+    "GeneratedElectricityAmount": 9.046,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43252,
-    "DateEnd": 43281,
+    "DateStart": "01.06.2018",
+    "DateEnd": "30.06.2018",
     "Year": 2018,
     "Month": 6,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 123.208
+    "GeneratedElectricityAmount": 123.208,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43252,
-    "DateEnd": 43281,
+    "DateStart": "01.06.2018",
+    "DateEnd": "30.06.2018",
     "Year": 2018,
     "Month": 6,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 58.602
+    "GeneratedElectricityAmount": 58.602,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43252,
-    "DateEnd": 43281,
+    "DateStart": "01.06.2018",
+    "DateEnd": "30.06.2018",
     "Year": 2018,
     "Month": 6,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 13.873
+    "GeneratedElectricityAmount": 13.873,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43252,
-    "DateEnd": 43281,
+    "DateStart": "01.06.2018",
+    "DateEnd": "30.06.2018",
     "Year": 2018,
     "Month": 6,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 12.896
+    "GeneratedElectricityAmount": 12.896,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43252,
-    "DateEnd": 43281,
+    "DateStart": "01.06.2018",
+    "DateEnd": "30.06.2018",
     "Year": 2018,
     "Month": 6,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 7.907
+    "GeneratedElectricityAmount": 7.907,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43282,
-    "DateEnd": 43312,
+    "DateStart": "01.07.2018",
+    "DateEnd": "31.07.2018",
     "Year": 2018,
     "Month": 7,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 135.068
+    "GeneratedElectricityAmount": 135.068,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43282,
-    "DateEnd": 43312,
+    "DateStart": "01.07.2018",
+    "DateEnd": "31.07.2018",
     "Year": 2018,
     "Month": 7,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 52.194
+    "GeneratedElectricityAmount": 52.194,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43282,
-    "DateEnd": 43312,
+    "DateStart": "01.07.2018",
+    "DateEnd": "31.07.2018",
     "Year": 2018,
     "Month": 7,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 15.207
+    "GeneratedElectricityAmount": 15.207,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43282,
-    "DateEnd": 43312,
+    "DateStart": "01.07.2018",
+    "DateEnd": "31.07.2018",
     "Year": 2018,
     "Month": 7,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 14.223
+    "GeneratedElectricityAmount": 14.223,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43282,
-    "DateEnd": 43312,
+    "DateStart": "01.07.2018",
+    "DateEnd": "31.07.2018",
     "Year": 2018,
     "Month": 7,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 9.025
+    "GeneratedElectricityAmount": 9.025,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43313,
-    "DateEnd": 43343,
+    "DateStart": "01.08.2018",
+    "DateEnd": "31.08.2018",
     "Year": 2018,
     "Month": 8,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 164.987
+    "GeneratedElectricityAmount": 164.987,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43313,
-    "DateEnd": 43343,
+    "DateStart": "01.08.2018",
+    "DateEnd": "31.08.2018",
     "Year": 2018,
     "Month": 8,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 90.398
+    "GeneratedElectricityAmount": 90.398,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43313,
-    "DateEnd": 43343,
+    "DateStart": "01.08.2018",
+    "DateEnd": "31.08.2018",
     "Year": 2018,
     "Month": 8,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 15.624
+    "GeneratedElectricityAmount": 15.624,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43313,
-    "DateEnd": 43343,
+    "DateStart": "01.08.2018",
+    "DateEnd": "31.08.2018",
     "Year": 2018,
     "Month": 8,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 11.544
+    "GeneratedElectricityAmount": 11.544,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43313,
-    "DateEnd": 43343,
+    "DateStart": "01.08.2018",
+    "DateEnd": "31.08.2018",
     "Year": 2018,
     "Month": 8,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 6.752
+    "GeneratedElectricityAmount": 6.752,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43344,
-    "DateEnd": 43373,
+    "DateStart": "01.09.2018",
+    "DateEnd": "30.09.2018",
     "Year": 2018,
     "Month": 9,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 119.05
+    "GeneratedElectricityAmount": 119.05,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43344,
-    "DateEnd": 43373,
+    "DateStart": "01.09.2018",
+    "DateEnd": "30.09.2018",
     "Year": 2018,
     "Month": 9,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 96.018
+    "GeneratedElectricityAmount": 96.018,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43344,
-    "DateEnd": 43373,
+    "DateStart": "01.09.2018",
+    "DateEnd": "30.09.2018",
     "Year": 2018,
     "Month": 9,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 14.297
+    "GeneratedElectricityAmount": 14.297,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43344,
-    "DateEnd": 43373,
+    "DateStart": "01.09.2018",
+    "DateEnd": "30.09.2018",
     "Year": 2018,
     "Month": 9,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 10.874
+    "GeneratedElectricityAmount": 10.874,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43344,
-    "DateEnd": 43373,
+    "DateStart": "01.09.2018",
+    "DateEnd": "30.09.2018",
     "Year": 2018,
     "Month": 9,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 7.738
+    "GeneratedElectricityAmount": 7.738,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43374,
-    "DateEnd": 43404,
+    "DateStart": "01.10.2018",
+    "DateEnd": "30.10.2018",
     "Year": 2018,
     "Month": 10,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 118.323
+    "GeneratedElectricityAmount": 118.323,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43374,
-    "DateEnd": 43404,
+    "DateStart": "01.10.2018",
+    "DateEnd": "30.10.2018",
     "Year": 2018,
     "Month": 10,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 122.951
+    "GeneratedElectricityAmount": 122.951,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43374,
-    "DateEnd": 43404,
+    "DateStart": "01.10.2018",
+    "DateEnd": "30.10.2018",
     "Year": 2018,
     "Month": 10,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 18.637
+    "GeneratedElectricityAmount": 18.637,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43374,
-    "DateEnd": 43404,
+    "DateStart": "01.10.2018",
+    "DateEnd": "30.10.2018",
     "Year": 2018,
     "Month": 10,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 16.802
+    "GeneratedElectricityAmount": 16.802,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43374,
-    "DateEnd": 43404,
+    "DateStart": "01.10.2018",
+    "DateEnd": "30.10.2018",
     "Year": 2018,
     "Month": 10,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 9.104
+    "GeneratedElectricityAmount": 9.104,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43405,
-    "DateEnd": 43434,
+    "DateStart": "31.10.2018",
+    "DateEnd": "29.11.2018",
     "Year": 2018,
     "Month": 11,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 42.102
+    "GeneratedElectricityAmount": 42.102,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43405,
-    "DateEnd": 43434,
+    "DateStart": "31.10.2018",
+    "DateEnd": "29.11.2018",
     "Year": 2018,
     "Month": 11,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 118.893
+    "GeneratedElectricityAmount": 118.893,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43405,
-    "DateEnd": 43434,
+    "DateStart": "31.10.2018",
+    "DateEnd": "29.11.2018",
     "Year": 2018,
     "Month": 11,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 18.41
+    "GeneratedElectricityAmount": 18.41,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43405,
-    "DateEnd": 43434,
+    "DateStart": "31.10.2018",
+    "DateEnd": "29.11.2018",
     "Year": 2018,
     "Month": 11,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 15.958
+    "GeneratedElectricityAmount": 15.958,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43405,
-    "DateEnd": 43434,
+    "DateStart": "31.10.2018",
+    "DateEnd": "29.11.2018",
     "Year": 2018,
     "Month": 11,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 8.736
+    "GeneratedElectricityAmount": 8.736,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43435,
-    "DateEnd": 43465,
+    "DateStart": "30.11.2018",
+    "DateEnd": "30.12.2018",
     "Year": 2018,
     "Month": 12,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 21.185
+    "GeneratedElectricityAmount": 21.185,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43435,
-    "DateEnd": 43465,
+    "DateStart": "30.11.2018",
+    "DateEnd": "30.12.2018",
     "Year": 2018,
     "Month": 12,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 132.364
+    "GeneratedElectricityAmount": 132.364,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43435,
-    "DateEnd": 43465,
+    "DateStart": "30.11.2018",
+    "DateEnd": "30.12.2018",
     "Year": 2018,
     "Month": 12,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 18.377
+    "GeneratedElectricityAmount": 18.377,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43435,
-    "DateEnd": 43465,
+    "DateStart": "30.11.2018",
+    "DateEnd": "30.12.2018",
     "Year": 2018,
     "Month": 12,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 15.594
+    "GeneratedElectricityAmount": 15.594,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43435,
-    "DateEnd": 43465,
+    "DateStart": "30.11.2018",
+    "DateEnd": "30.12.2018",
     "Year": 2018,
     "Month": 12,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 12.007
+    "GeneratedElectricityAmount": 12.007,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43466,
-    "DateEnd": 43496,
+    "DateStart": "31.12.2018",
+    "DateEnd": "30.01.2019",
     "Year": 2019,
     "Month": 1,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 31.626
+    "GeneratedElectricityAmount": 31.626,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43466,
-    "DateEnd": 43496,
+    "DateStart": "31.12.2018",
+    "DateEnd": "30.01.2019",
     "Year": 2019,
     "Month": 1,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 137.918
+    "GeneratedElectricityAmount": 137.918,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43466,
-    "DateEnd": 43496,
+    "DateStart": "31.12.2018",
+    "DateEnd": "30.01.2019",
     "Year": 2019,
     "Month": 1,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 19.835
+    "GeneratedElectricityAmount": 19.835,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43466,
-    "DateEnd": 43496,
+    "DateStart": "31.12.2018",
+    "DateEnd": "30.01.2019",
     "Year": 2019,
     "Month": 1,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 14.632
+    "GeneratedElectricityAmount": 14.632,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43466,
-    "DateEnd": 43496,
+    "DateStart": "31.12.2018",
+    "DateEnd": "30.01.2019",
     "Year": 2019,
     "Month": 1,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 11.314
+    "GeneratedElectricityAmount": 11.314,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43497,
-    "DateEnd": 43524,
+    "DateStart": "31.01.2019",
+    "DateEnd": "27.02.2019",
     "Year": 2019,
     "Month": 2,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 82.561
+    "GeneratedElectricityAmount": 82.561,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43497,
-    "DateEnd": 43524,
+    "DateStart": "31.01.2019",
+    "DateEnd": "27.02.2019",
     "Year": 2019,
     "Month": 2,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 124.142
+    "GeneratedElectricityAmount": 124.142,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43497,
-    "DateEnd": 43524,
+    "DateStart": "31.01.2019",
+    "DateEnd": "27.02.2019",
     "Year": 2019,
     "Month": 2,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 27.345
+    "GeneratedElectricityAmount": 27.345,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43497,
-    "DateEnd": 43524,
+    "DateStart": "31.01.2019",
+    "DateEnd": "27.02.2019",
     "Year": 2019,
     "Month": 2,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 14.527
+    "GeneratedElectricityAmount": 14.527,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43497,
-    "DateEnd": 43524,
+    "DateStart": "31.01.2019",
+    "DateEnd": "27.02.2019",
     "Year": 2019,
     "Month": 2,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 10.855
+    "GeneratedElectricityAmount": 10.855,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43525,
-    "DateEnd": 43555,
+    "DateStart": "28.02.2019",
+    "DateEnd": "30.03.2019",
     "Year": 2019,
     "Month": 3,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 209.661
+    "GeneratedElectricityAmount": 209.661,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43525,
-    "DateEnd": 43555,
+    "DateStart": "28.02.2019",
+    "DateEnd": "30.03.2019",
     "Year": 2019,
     "Month": 3,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 154.385
+    "GeneratedElectricityAmount": 154.385,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43525,
-    "DateEnd": 43555,
+    "DateStart": "28.02.2019",
+    "DateEnd": "30.03.2019",
     "Year": 2019,
     "Month": 3,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 28.529
+    "GeneratedElectricityAmount": 28.529,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43525,
-    "DateEnd": 43555,
+    "DateStart": "28.02.2019",
+    "DateEnd": "30.03.2019",
     "Year": 2019,
     "Month": 3,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 17.821
+    "GeneratedElectricityAmount": 17.821,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43525,
-    "DateEnd": 43555,
+    "DateStart": "28.02.2019",
+    "DateEnd": "30.03.2019",
     "Year": 2019,
     "Month": 3,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 13.388
+    "GeneratedElectricityAmount": 13.388,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43556,
-    "DateEnd": 43585,
+    "DateStart": "01.04.2019",
+    "DateEnd": "30.04.2019",
     "Year": 2019,
     "Month": 4,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 271.326
+    "GeneratedElectricityAmount": 271.326,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43556,
-    "DateEnd": 43585,
+    "DateStart": "01.04.2019",
+    "DateEnd": "30.04.2019",
     "Year": 2019,
     "Month": 4,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 141.14
+    "GeneratedElectricityAmount": 141.14,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43556,
-    "DateEnd": 43585,
+    "DateStart": "01.04.2019",
+    "DateEnd": "30.04.2019",
     "Year": 2019,
     "Month": 4,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 23.184
+    "GeneratedElectricityAmount": 23.184,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43556,
-    "DateEnd": 43585,
+    "DateStart": "01.04.2019",
+    "DateEnd": "30.04.2019",
     "Year": 2019,
     "Month": 4,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 17.509
+    "GeneratedElectricityAmount": 17.509,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43556,
-    "DateEnd": 43585,
+    "DateStart": "01.04.2019",
+    "DateEnd": "30.04.2019",
     "Year": 2019,
     "Month": 4,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 16.228
+    "GeneratedElectricityAmount": 16.228,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43586,
-    "DateEnd": 43616,
+    "DateStart": "01.05.2019",
+    "DateEnd": "31.05.2019",
     "Year": 2019,
     "Month": 5,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 287.358
+    "GeneratedElectricityAmount": 287.358,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43586,
-    "DateEnd": 43616,
+    "DateStart": "01.05.2019",
+    "DateEnd": "31.05.2019",
     "Year": 2019,
     "Month": 5,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 135.547
+    "GeneratedElectricityAmount": 135.547,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43586,
-    "DateEnd": 43616,
+    "DateStart": "01.05.2019",
+    "DateEnd": "31.05.2019",
     "Year": 2019,
     "Month": 5,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 33.296
+    "GeneratedElectricityAmount": 33.296,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43586,
-    "DateEnd": 43616,
+    "DateStart": "01.05.2019",
+    "DateEnd": "31.05.2019",
     "Year": 2019,
     "Month": 5,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 18.135
+    "GeneratedElectricityAmount": 18.135,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43586,
-    "DateEnd": 43616,
+    "DateStart": "01.05.2019",
+    "DateEnd": "31.05.2019",
     "Year": 2019,
     "Month": 5,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 16.158
+    "GeneratedElectricityAmount": 16.158,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43617,
-    "DateEnd": 43646,
+    "DateStart": "01.06.2019",
+    "DateEnd": "30.06.2019",
     "Year": 2019,
     "Month": 6,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 382.681
+    "GeneratedElectricityAmount": 382.681,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43617,
-    "DateEnd": 43646,
+    "DateStart": "01.06.2019",
+    "DateEnd": "30.06.2019",
     "Year": 2019,
     "Month": 6,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 146.268
+    "GeneratedElectricityAmount": 146.268,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43617,
-    "DateEnd": 43646,
+    "DateStart": "01.06.2019",
+    "DateEnd": "30.06.2019",
     "Year": 2019,
     "Month": 6,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 27.857
+    "GeneratedElectricityAmount": 27.857,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43617,
-    "DateEnd": 43646,
+    "DateStart": "01.06.2019",
+    "DateEnd": "30.06.2019",
     "Year": 2019,
     "Month": 6,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 17.674
+    "GeneratedElectricityAmount": 17.674,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43617,
-    "DateEnd": 43646,
+    "DateStart": "01.06.2019",
+    "DateEnd": "30.06.2019",
     "Year": 2019,
     "Month": 6,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 14.887
+    "GeneratedElectricityAmount": 14.887,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43647,
-    "DateEnd": 43677,
+    "DateStart": "01.07.2019",
+    "DateEnd": "31.07.2019",
     "Year": 2019,
     "Month": 7,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 390.193
+    "GeneratedElectricityAmount": 390.193,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43647,
-    "DateEnd": 43677,
+    "DateStart": "01.07.2019",
+    "DateEnd": "31.07.2019",
     "Year": 2019,
     "Month": 7,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 98.933
+    "GeneratedElectricityAmount": 98.933,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43647,
-    "DateEnd": 43677,
+    "DateStart": "01.07.2019",
+    "DateEnd": "31.07.2019",
     "Year": 2019,
     "Month": 7,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 19.727
+    "GeneratedElectricityAmount": 19.727,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43647,
-    "DateEnd": 43677,
+    "DateStart": "01.07.2019",
+    "DateEnd": "31.07.2019",
     "Year": 2019,
     "Month": 7,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 12.966
+    "GeneratedElectricityAmount": 12.966,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43647,
-    "DateEnd": 43677,
+    "DateStart": "01.07.2019",
+    "DateEnd": "31.07.2019",
     "Year": 2019,
     "Month": 7,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 10.573
+    "GeneratedElectricityAmount": 10.573,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43678,
-    "DateEnd": 43708,
+    "DateStart": "01.08.2019",
+    "DateEnd": "31.08.2019",
     "Year": 2019,
     "Month": 8,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 409.843
+    "GeneratedElectricityAmount": 409.843,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43678,
-    "DateEnd": 43708,
+    "DateStart": "01.08.2019",
+    "DateEnd": "31.08.2019",
     "Year": 2019,
     "Month": 8,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 146.06
+    "GeneratedElectricityAmount": 146.06,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43678,
-    "DateEnd": 43708,
+    "DateStart": "01.08.2019",
+    "DateEnd": "31.08.2019",
     "Year": 2019,
     "Month": 8,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 22.485
+    "GeneratedElectricityAmount": 22.485,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43678,
-    "DateEnd": 43708,
+    "DateStart": "01.08.2019",
+    "DateEnd": "31.08.2019",
     "Year": 2019,
     "Month": 8,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 10.711
+    "GeneratedElectricityAmount": 10.711,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43678,
-    "DateEnd": 43708,
+    "DateStart": "01.08.2019",
+    "DateEnd": "31.08.2019",
     "Year": 2019,
     "Month": 8,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 10.119
+    "GeneratedElectricityAmount": 10.119,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43709,
-    "DateEnd": 43738,
+    "DateStart": "01.09.2019",
+    "DateEnd": "30.09.2019",
     "Year": 2019,
     "Month": 9,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 347.456
+    "GeneratedElectricityAmount": 347.456,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43709,
-    "DateEnd": 43738,
+    "DateStart": "01.09.2019",
+    "DateEnd": "30.09.2019",
     "Year": 2019,
     "Month": 9,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 191.397
+    "GeneratedElectricityAmount": 191.397,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43709,
-    "DateEnd": 43738,
+    "DateStart": "01.09.2019",
+    "DateEnd": "30.09.2019",
     "Year": 2019,
     "Month": 9,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 23.438
+    "GeneratedElectricityAmount": 23.438,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43709,
-    "DateEnd": 43738,
+    "DateStart": "01.09.2019",
+    "DateEnd": "30.09.2019",
     "Year": 2019,
     "Month": 9,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 12.117
+    "GeneratedElectricityAmount": 12.117,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43709,
-    "DateEnd": 43738,
+    "DateStart": "01.09.2019",
+    "DateEnd": "30.09.2019",
     "Year": 2019,
     "Month": 9,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 8.637
+    "GeneratedElectricityAmount": 8.637,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43739,
-    "DateEnd": 43769,
+    "DateStart": "01.10.2019",
+    "DateEnd": "30.10.2019",
     "Year": 2019,
     "Month": 10,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 279.926
+    "GeneratedElectricityAmount": 279.926,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43739,
-    "DateEnd": 43769,
+    "DateStart": "01.10.2019",
+    "DateEnd": "30.10.2019",
     "Year": 2019,
     "Month": 10,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 116.734
+    "GeneratedElectricityAmount": 116.734,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43739,
-    "DateEnd": 43769,
+    "DateStart": "01.10.2019",
+    "DateEnd": "30.10.2019",
     "Year": 2019,
     "Month": 10,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 25.172
+    "GeneratedElectricityAmount": 25.172,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43739,
-    "DateEnd": 43769,
+    "DateStart": "01.10.2019",
+    "DateEnd": "30.10.2019",
     "Year": 2019,
     "Month": 10,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 13.369
+    "GeneratedElectricityAmount": 13.369,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43739,
-    "DateEnd": 43769,
+    "DateStart": "01.10.2019",
+    "DateEnd": "30.10.2019",
     "Year": 2019,
     "Month": 10,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 13.146
+    "GeneratedElectricityAmount": 13.146,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43770,
-    "DateEnd": 43799,
+    "DateStart": "31.10.2019",
+    "DateEnd": "29.11.2019",
     "Year": 2019,
     "Month": 11,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 135.573
+    "GeneratedElectricityAmount": 135.573,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43770,
-    "DateEnd": 43799,
+    "DateStart": "31.10.2019",
+    "DateEnd": "29.11.2019",
     "Year": 2019,
     "Month": 11,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 338.522
+    "GeneratedElectricityAmount": 338.522,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43770,
-    "DateEnd": 43799,
+    "DateStart": "31.10.2019",
+    "DateEnd": "29.11.2019",
     "Year": 2019,
     "Month": 11,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 25.903
+    "GeneratedElectricityAmount": 25.903,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43770,
-    "DateEnd": 43799,
+    "DateStart": "31.10.2019",
+    "DateEnd": "29.11.2019",
     "Year": 2019,
     "Month": 11,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 17.216
+    "GeneratedElectricityAmount": 17.216,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43770,
-    "DateEnd": 43799,
+    "DateStart": "31.10.2019",
+    "DateEnd": "29.11.2019",
     "Year": 2019,
     "Month": 11,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 12.158
+    "GeneratedElectricityAmount": 12.158,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43800,
-    "DateEnd": 43830,
+    "DateStart": "30.11.2019",
+    "DateEnd": "30.12.2019",
     "Year": 2019,
     "Month": 12,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 102.493
+    "GeneratedElectricityAmount": 102.493,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43800,
-    "DateEnd": 43830,
+    "DateStart": "30.11.2019",
+    "DateEnd": "30.12.2019",
     "Year": 2019,
     "Month": 12,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 290.621
+    "GeneratedElectricityAmount": 290.621,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43800,
-    "DateEnd": 43830,
+    "DateStart": "30.11.2019",
+    "DateEnd": "30.12.2019",
     "Year": 2019,
     "Month": 12,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 30.392
+    "GeneratedElectricityAmount": 30.392,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43800,
-    "DateEnd": 43830,
+    "DateStart": "30.11.2019",
+    "DateEnd": "30.12.2019",
     "Year": 2019,
     "Month": 12,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 20.592
+    "GeneratedElectricityAmount": 20.592,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43800,
-    "DateEnd": 43830,
+    "DateStart": "30.11.2019",
+    "DateEnd": "30.12.2019",
     "Year": 2019,
     "Month": 12,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 18.731
+    "GeneratedElectricityAmount": 18.731,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43831,
-    "DateEnd": 43861,
+    "DateStart": "31.12.2019",
+    "DateEnd": "30.01.2020",
     "Year": 2020,
     "Month": 1,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 157.368
+    "GeneratedElectricityAmount": 157.368,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43831,
-    "DateEnd": 43861,
+    "DateStart": "31.12.2019",
+    "DateEnd": "30.01.2020",
     "Year": 2020,
     "Month": 1,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 278.167
+    "GeneratedElectricityAmount": 278.167,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43831,
-    "DateEnd": 43861,
+    "DateStart": "31.12.2019",
+    "DateEnd": "30.01.2020",
     "Year": 2020,
     "Month": 1,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 34.934
+    "GeneratedElectricityAmount": 34.934,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43831,
-    "DateEnd": 43861,
+    "DateStart": "31.12.2019",
+    "DateEnd": "30.01.2020",
     "Year": 2020,
     "Month": 1,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 20.727
+    "GeneratedElectricityAmount": 20.727,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43831,
-    "DateEnd": 43861,
+    "DateStart": "31.12.2019",
+    "DateEnd": "30.01.2020",
     "Year": 2020,
     "Month": 1,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 15.878
+    "GeneratedElectricityAmount": 15.878,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43862,
-    "DateEnd": 43890,
+    "DateStart": "31.01.2020",
+    "DateEnd": "28.02.2020",
     "Year": 2020,
     "Month": 2,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 260.11
+    "GeneratedElectricityAmount": 260.11,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43862,
-    "DateEnd": 43890,
+    "DateStart": "31.01.2020",
+    "DateEnd": "28.02.2020",
     "Year": 2020,
     "Month": 2,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 352.086
+    "GeneratedElectricityAmount": 352.086,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43862,
-    "DateEnd": 43890,
+    "DateStart": "31.01.2020",
+    "DateEnd": "28.02.2020",
     "Year": 2020,
     "Month": 2,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 32.258
+    "GeneratedElectricityAmount": 32.258,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43862,
-    "DateEnd": 43890,
+    "DateStart": "31.01.2020",
+    "DateEnd": "28.02.2020",
     "Year": 2020,
     "Month": 2,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 21.062
+    "GeneratedElectricityAmount": 21.062,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43862,
-    "DateEnd": 43890,
+    "DateStart": "31.01.2020",
+    "DateEnd": "28.02.2020",
     "Year": 2020,
     "Month": 2,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 19.408
+    "GeneratedElectricityAmount": 19.408,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43891,
-    "DateEnd": 43921,
+    "DateStart": "29.02.2020",
+    "DateEnd": "31.03.2020",
     "Year": 2020,
     "Month": 3,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 503.059
+    "GeneratedElectricityAmount": 503.059,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43891,
-    "DateEnd": 43921,
+    "DateStart": "29.02.2020",
+    "DateEnd": "31.03.2020",
     "Year": 2020,
     "Month": 3,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 364.184
+    "GeneratedElectricityAmount": 364.184,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43891,
-    "DateEnd": 43921,
+    "DateStart": "29.02.2020",
+    "DateEnd": "31.03.2020",
     "Year": 2020,
     "Month": 3,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 35.217
+    "GeneratedElectricityAmount": 35.217,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43891,
-    "DateEnd": 43921,
+    "DateStart": "29.02.2020",
+    "DateEnd": "31.03.2020",
     "Year": 2020,
     "Month": 3,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 25.743
+    "GeneratedElectricityAmount": 25.743,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43891,
-    "DateEnd": 43921,
+    "DateStart": "29.02.2020",
+    "DateEnd": "31.03.2020",
     "Year": 2020,
     "Month": 3,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 21.53
+    "GeneratedElectricityAmount": 21.53,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43922,
-    "DateEnd": 43951,
+    "DateStart": "01.04.2020",
+    "DateEnd": "30.04.2020",
     "Year": 2020,
     "Month": 4,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 723.649
+    "GeneratedElectricityAmount": 723.649,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43922,
-    "DateEnd": 43951,
+    "DateStart": "01.04.2020",
+    "DateEnd": "30.04.2020",
     "Year": 2020,
     "Month": 4,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 264.118
+    "GeneratedElectricityAmount": 264.118,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43922,
-    "DateEnd": 43951,
+    "DateStart": "01.04.2020",
+    "DateEnd": "30.04.2020",
     "Year": 2020,
     "Month": 4,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 35.795
+    "GeneratedElectricityAmount": 35.795,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43922,
-    "DateEnd": 43951,
+    "DateStart": "01.04.2020",
+    "DateEnd": "30.04.2020",
     "Year": 2020,
     "Month": 4,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 23.541
+    "GeneratedElectricityAmount": 23.541,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43922,
-    "DateEnd": 43951,
+    "DateStart": "01.04.2020",
+    "DateEnd": "30.04.2020",
     "Year": 2020,
     "Month": 4,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 17.097
+    "GeneratedElectricityAmount": 17.097,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43952,
-    "DateEnd": 43982,
+    "DateStart": "01.05.2020",
+    "DateEnd": "31.05.2020",
     "Year": 2020,
     "Month": 5,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 621.695
+    "GeneratedElectricityAmount": 621.695,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43952,
-    "DateEnd": 43982,
+    "DateStart": "01.05.2020",
+    "DateEnd": "31.05.2020",
     "Year": 2020,
     "Month": 5,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 220.439
+    "GeneratedElectricityAmount": 220.439,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43952,
-    "DateEnd": 43982,
+    "DateStart": "01.05.2020",
+    "DateEnd": "31.05.2020",
     "Year": 2020,
     "Month": 5,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 39.878
+    "GeneratedElectricityAmount": 39.878,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43952,
-    "DateEnd": 43982,
+    "DateStart": "01.05.2020",
+    "DateEnd": "31.05.2020",
     "Year": 2020,
     "Month": 5,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 19.549
+    "GeneratedElectricityAmount": 19.549,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43952,
-    "DateEnd": 43982,
+    "DateStart": "01.05.2020",
+    "DateEnd": "31.05.2020",
     "Year": 2020,
     "Month": 5,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 19.487
+    "GeneratedElectricityAmount": 19.487,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43983,
-    "DateEnd": 44012,
+    "DateStart": "01.06.2020",
+    "DateEnd": "30.06.2020",
     "Year": 2020,
     "Month": 6,
     "PowerPlantType": "Solar",
-    "GeneratedElectricityAmount,MillionKWh": 734.062
+    "GeneratedElectricityAmount": 734.062,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43983,
-    "DateEnd": 44012,
+    "DateStart": "01.06.2020",
+    "DateEnd": "30.06.2020",
     "Year": 2020,
     "Month": 6,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 182.4
+    "GeneratedElectricityAmount": 182.4,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43983,
-    "DateEnd": 44012,
+    "DateStart": "01.06.2020",
+    "DateEnd": "30.06.2020",
     "Year": 2020,
     "Month": 6,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 35.627
+    "GeneratedElectricityAmount": 35.627,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43983,
-    "DateEnd": 44012,
+    "DateStart": "01.06.2020",
+    "DateEnd": "30.06.2020",
     "Year": 2020,
     "Month": 6,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 24.204
+    "GeneratedElectricityAmount": 24.204,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43983,
-    "DateEnd": 44012,
+    "DateStart": "01.06.2020",
+    "DateEnd": "30.06.2020",
     "Year": 2020,
     "Month": 6,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 24.198
+    "GeneratedElectricityAmount": 24.198,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44013,
-    "DateEnd": 44043,
+    "DateStart": "01.07.2020",
+    "DateEnd": "31.07.2020",
     "Year": 2020,
     "Month": 7,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 793.3539999999999
+    "GeneratedElectricityAmount": 793.3539999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44013,
-    "DateEnd": 44043,
+    "DateStart": "01.07.2020",
+    "DateEnd": "31.07.2020",
     "Year": 2020,
     "Month": 7,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 14.781
+    "GeneratedElectricityAmount": 14.781,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44013,
-    "DateEnd": 44043,
+    "DateStart": "01.07.2020",
+    "DateEnd": "31.07.2020",
     "Year": 2020,
     "Month": 7,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 200.507
+    "GeneratedElectricityAmount": 200.507,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44013,
-    "DateEnd": 44043,
+    "DateStart": "01.07.2020",
+    "DateEnd": "31.07.2020",
     "Year": 2020,
     "Month": 7,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 36.285
+    "GeneratedElectricityAmount": 36.285,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44013,
-    "DateEnd": 44043,
+    "DateStart": "01.07.2020",
+    "DateEnd": "31.07.2020",
     "Year": 2020,
     "Month": 7,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 28.023
+    "GeneratedElectricityAmount": 28.023,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44013,
-    "DateEnd": 44043,
+    "DateStart": "01.07.2020",
+    "DateEnd": "31.07.2020",
     "Year": 2020,
     "Month": 7,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 17.243
+    "GeneratedElectricityAmount": 17.243,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44044,
-    "DateEnd": 44074,
+    "DateStart": "01.08.2020",
+    "DateEnd": "31.08.2020",
     "Year": 2020,
     "Month": 8,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 827.1660000000004
+    "GeneratedElectricityAmount": 827.1660000000004,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44044,
-    "DateEnd": 44074,
+    "DateStart": "01.08.2020",
+    "DateEnd": "31.08.2020",
     "Year": 2020,
     "Month": 8,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 15.616
+    "GeneratedElectricityAmount": 15.616,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44044,
-    "DateEnd": 44074,
+    "DateStart": "01.08.2020",
+    "DateEnd": "31.08.2020",
     "Year": 2020,
     "Month": 8,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 174.137
+    "GeneratedElectricityAmount": 174.137,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44044,
-    "DateEnd": 44074,
+    "DateStart": "01.08.2020",
+    "DateEnd": "31.08.2020",
     "Year": 2020,
     "Month": 8,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 36.641
+    "GeneratedElectricityAmount": 36.641,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44044,
-    "DateEnd": 44074,
+    "DateStart": "01.08.2020",
+    "DateEnd": "31.08.2020",
     "Year": 2020,
     "Month": 8,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 23.588
+    "GeneratedElectricityAmount": 23.588,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44044,
-    "DateEnd": 44074,
+    "DateStart": "01.08.2020",
+    "DateEnd": "31.08.2020",
     "Year": 2020,
     "Month": 8,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 10.151
+    "GeneratedElectricityAmount": 10.151,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44075,
-    "DateEnd": 44104,
+    "DateStart": "01.09.2020",
+    "DateEnd": "30.09.2020",
     "Year": 2020,
     "Month": 9,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 674.73
+    "GeneratedElectricityAmount": 674.73,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44075,
-    "DateEnd": 44104,
+    "DateStart": "01.09.2020",
+    "DateEnd": "30.09.2020",
     "Year": 2020,
     "Month": 9,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 11.806
+    "GeneratedElectricityAmount": 11.806,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44075,
-    "DateEnd": 44104,
+    "DateStart": "01.09.2020",
+    "DateEnd": "30.09.2020",
     "Year": 2020,
     "Month": 9,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 240.045
+    "GeneratedElectricityAmount": 240.045,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44075,
-    "DateEnd": 44104,
+    "DateStart": "01.09.2020",
+    "DateEnd": "30.09.2020",
     "Year": 2020,
     "Month": 9,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 37.073
+    "GeneratedElectricityAmount": 37.073,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44075,
-    "DateEnd": 44104,
+    "DateStart": "01.09.2020",
+    "DateEnd": "30.09.2020",
     "Year": 2020,
     "Month": 9,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 27.543
+    "GeneratedElectricityAmount": 27.543,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44075,
-    "DateEnd": 44104,
+    "DateStart": "01.09.2020",
+    "DateEnd": "30.09.2020",
     "Year": 2020,
     "Month": 9,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 8.081
+    "GeneratedElectricityAmount": 8.081,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44105,
-    "DateEnd": 44135,
+    "DateStart": "01.10.2020",
+    "DateEnd": "30.10.2020",
     "Year": 2020,
     "Month": 10,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 406.7960000000003
+    "GeneratedElectricityAmount": 406.7960000000003,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44105,
-    "DateEnd": 44135,
+    "DateStart": "01.10.2020",
+    "DateEnd": "30.10.2020",
     "Year": 2020,
     "Month": 10,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 6.109999999999995
+    "GeneratedElectricityAmount": 6.109999999999995,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44105,
-    "DateEnd": 44135,
+    "DateStart": "01.10.2020",
+    "DateEnd": "30.10.2020",
     "Year": 2020,
     "Month": 10,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 285.418
+    "GeneratedElectricityAmount": 285.418,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44105,
-    "DateEnd": 44135,
+    "DateStart": "01.10.2020",
+    "DateEnd": "30.10.2020",
     "Year": 2020,
     "Month": 10,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 42.47999999999999
+    "GeneratedElectricityAmount": 42.47999999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44105,
-    "DateEnd": 44135,
+    "DateStart": "01.10.2020",
+    "DateEnd": "30.10.2020",
     "Year": 2020,
     "Month": 10,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 28.206
+    "GeneratedElectricityAmount": 28.206,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44105,
-    "DateEnd": 44135,
+    "DateStart": "01.10.2020",
+    "DateEnd": "30.10.2020",
     "Year": 2020,
     "Month": 10,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 18.511
+    "GeneratedElectricityAmount": 18.511,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44136,
-    "DateEnd": 44165,
+    "DateStart": "31.10.2020",
+    "DateEnd": "29.11.2020",
     "Year": 2020,
     "Month": 11,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 172.8520000000001
+    "GeneratedElectricityAmount": 172.8520000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44136,
-    "DateEnd": 44165,
+    "DateStart": "31.10.2020",
+    "DateEnd": "29.11.2020",
     "Year": 2020,
     "Month": 11,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 2.548999999999997
+    "GeneratedElectricityAmount": 2.548999999999997,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44136,
-    "DateEnd": 44165,
+    "DateStart": "31.10.2020",
+    "DateEnd": "29.11.2020",
     "Year": 2020,
     "Month": 11,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 245.209
+    "GeneratedElectricityAmount": 245.209,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44136,
-    "DateEnd": 44165,
+    "DateStart": "31.10.2020",
+    "DateEnd": "29.11.2020",
     "Year": 2020,
     "Month": 11,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 43.133
+    "GeneratedElectricityAmount": 43.133,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44136,
-    "DateEnd": 44165,
+    "DateStart": "31.10.2020",
+    "DateEnd": "29.11.2020",
     "Year": 2020,
     "Month": 11,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 27.809
+    "GeneratedElectricityAmount": 27.809,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44136,
-    "DateEnd": 44165,
+    "DateStart": "31.10.2020",
+    "DateEnd": "29.11.2020",
     "Year": 2020,
     "Month": 11,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 16.223
+    "GeneratedElectricityAmount": 16.223,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44166,
-    "DateEnd": 44196,
+    "DateStart": "30.11.2020",
+    "DateEnd": "30.12.2020",
     "Year": 2020,
     "Month": 12,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 82.47100000000006
+    "GeneratedElectricityAmount": 82.47100000000006,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44166,
-    "DateEnd": 44196,
+    "DateStart": "30.11.2020",
+    "DateEnd": "30.12.2020",
     "Year": 2020,
     "Month": 12,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 1.215999999999999
+    "GeneratedElectricityAmount": 1.215999999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44166,
-    "DateEnd": 44196,
+    "DateStart": "30.11.2020",
+    "DateEnd": "30.12.2020",
     "Year": 2020,
     "Month": 12,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 444.8609999999999
+    "GeneratedElectricityAmount": 444.8609999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44166,
-    "DateEnd": 44196,
+    "DateStart": "30.11.2020",
+    "DateEnd": "30.12.2020",
     "Year": 2020,
     "Month": 12,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 45.12200000000001
+    "GeneratedElectricityAmount": 45.12200000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44166,
-    "DateEnd": 44196,
+    "DateStart": "30.11.2020",
+    "DateEnd": "30.12.2020",
     "Year": 2020,
     "Month": 12,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 31.842
+    "GeneratedElectricityAmount": 31.842,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44166,
-    "DateEnd": 44196,
+    "DateStart": "30.11.2020",
+    "DateEnd": "30.12.2020",
     "Year": 2020,
     "Month": 12,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 15.643
+    "GeneratedElectricityAmount": 15.643,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44197,
-    "DateEnd": 44227,
+    "DateStart": "31.12.2020",
+    "DateEnd": "30.01.2021",
     "Year": 2021,
     "Month": 1,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 145.0270000000001
+    "GeneratedElectricityAmount": 145.0270000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44197,
-    "DateEnd": 44227,
+    "DateStart": "31.12.2020",
+    "DateEnd": "30.01.2021",
     "Year": 2021,
     "Month": 1,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 1.700999999999996
+    "GeneratedElectricityAmount": 1.700999999999996,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44197,
-    "DateEnd": 44227,
+    "DateStart": "31.12.2020",
+    "DateEnd": "30.01.2021",
     "Year": 2021,
     "Month": 1,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 389.6730000000001
+    "GeneratedElectricityAmount": 389.6730000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44197,
-    "DateEnd": 44227,
+    "DateStart": "31.12.2020",
+    "DateEnd": "30.01.2021",
     "Year": 2021,
     "Month": 1,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 45.746
+    "GeneratedElectricityAmount": 45.746,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44197,
-    "DateEnd": 44227,
+    "DateStart": "31.12.2020",
+    "DateEnd": "30.01.2021",
     "Year": 2021,
     "Month": 1,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 28.15800000000001
+    "GeneratedElectricityAmount": 28.15800000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44197,
-    "DateEnd": 44227,
+    "DateStart": "31.12.2020",
+    "DateEnd": "30.01.2021",
     "Year": 2021,
     "Month": 1,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 20.271
+    "GeneratedElectricityAmount": 20.271,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44228,
-    "DateEnd": 44255,
+    "DateStart": "31.01.2021",
+    "DateEnd": "27.02.2021",
     "Year": 2021,
     "Month": 2,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 267.2689999999996
+    "GeneratedElectricityAmount": 267.2689999999996,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44228,
-    "DateEnd": 44255,
+    "DateStart": "31.01.2021",
+    "DateEnd": "27.02.2021",
     "Year": 2021,
     "Month": 2,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 2.824518999999995
+    "GeneratedElectricityAmount": 2.824518999999995,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44228,
-    "DateEnd": 44255,
+    "DateStart": "31.01.2021",
+    "DateEnd": "27.02.2021",
     "Year": 2021,
     "Month": 2,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 326.274
+    "GeneratedElectricityAmount": 326.274,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44228,
-    "DateEnd": 44255,
+    "DateStart": "31.01.2021",
+    "DateEnd": "27.02.2021",
     "Year": 2021,
     "Month": 2,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 40.651
+    "GeneratedElectricityAmount": 40.651,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44228,
-    "DateEnd": 44255,
+    "DateStart": "31.01.2021",
+    "DateEnd": "27.02.2021",
     "Year": 2021,
     "Month": 2,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 28.733
+    "GeneratedElectricityAmount": 28.733,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44228,
-    "DateEnd": 44255,
+    "DateStart": "31.01.2021",
+    "DateEnd": "27.02.2021",
     "Year": 2021,
     "Month": 2,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 21.78900000000001
+    "GeneratedElectricityAmount": 21.78900000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44256,
-    "DateEnd": 44286,
+    "DateStart": "28.02.2021",
+    "DateEnd": "31.03.2021",
     "Year": 2021,
     "Month": 3,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 514.5079999999999
+    "GeneratedElectricityAmount": 514.5079999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44256,
-    "DateEnd": 44286,
+    "DateStart": "28.02.2021",
+    "DateEnd": "31.03.2021",
     "Year": 2021,
     "Month": 3,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 8.994999999999996
+    "GeneratedElectricityAmount": 8.994999999999996,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44256,
-    "DateEnd": 44286,
+    "DateStart": "28.02.2021",
+    "DateEnd": "31.03.2021",
     "Year": 2021,
     "Month": 3,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 325.172
+    "GeneratedElectricityAmount": 325.172,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44256,
-    "DateEnd": 44286,
+    "DateStart": "28.02.2021",
+    "DateEnd": "31.03.2021",
     "Year": 2021,
     "Month": 3,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 46.599
+    "GeneratedElectricityAmount": 46.599,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44256,
-    "DateEnd": 44286,
+    "DateStart": "28.02.2021",
+    "DateEnd": "31.03.2021",
     "Year": 2021,
     "Month": 3,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 34.403
+    "GeneratedElectricityAmount": 34.403,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44256,
-    "DateEnd": 44286,
+    "DateStart": "28.02.2021",
+    "DateEnd": "31.03.2021",
     "Year": 2021,
     "Month": 3,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 33.317
+    "GeneratedElectricityAmount": 33.317,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44287,
-    "DateEnd": 44316,
+    "DateStart": "01.04.2021",
+    "DateEnd": "30.04.2021",
     "Year": 2021,
     "Month": 4,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 568.7110000000002
+    "GeneratedElectricityAmount": 568.7110000000002,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44287,
-    "DateEnd": 44316,
+    "DateStart": "01.04.2021",
+    "DateEnd": "30.04.2021",
     "Year": 2021,
     "Month": 4,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 12.309
+    "GeneratedElectricityAmount": 12.309,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44287,
-    "DateEnd": 44316,
+    "DateStart": "01.04.2021",
+    "DateEnd": "30.04.2021",
     "Year": 2021,
     "Month": 4,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 242.884
+    "GeneratedElectricityAmount": 242.884,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44287,
-    "DateEnd": 44316,
+    "DateStart": "01.04.2021",
+    "DateEnd": "30.04.2021",
     "Year": 2021,
     "Month": 4,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 47.252
+    "GeneratedElectricityAmount": 47.252,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44287,
-    "DateEnd": 44316,
+    "DateStart": "01.04.2021",
+    "DateEnd": "30.04.2021",
     "Year": 2021,
     "Month": 4,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 32.89400000000001
+    "GeneratedElectricityAmount": 32.89400000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44287,
-    "DateEnd": 44316,
+    "DateStart": "01.04.2021",
+    "DateEnd": "30.04.2021",
     "Year": 2021,
     "Month": 4,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 31.489
+    "GeneratedElectricityAmount": 31.489,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44317,
-    "DateEnd": 44347,
+    "DateStart": "01.05.2021",
+    "DateEnd": "31.05.2021",
     "Year": 2021,
     "Month": 5,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 679.7940000000002
+    "GeneratedElectricityAmount": 679.7940000000002,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44317,
-    "DateEnd": 44347,
+    "DateStart": "01.05.2021",
+    "DateEnd": "31.05.2021",
     "Year": 2021,
     "Month": 5,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 16.44799999999999
+    "GeneratedElectricityAmount": 16.44799999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44317,
-    "DateEnd": 44347,
+    "DateStart": "01.05.2021",
+    "DateEnd": "31.05.2021",
     "Year": 2021,
     "Month": 5,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 241.501
+    "GeneratedElectricityAmount": 241.501,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44317,
-    "DateEnd": 44347,
+    "DateStart": "01.05.2021",
+    "DateEnd": "31.05.2021",
     "Year": 2021,
     "Month": 5,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 48.56400000000001
+    "GeneratedElectricityAmount": 48.56400000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44317,
-    "DateEnd": 44347,
+    "DateStart": "01.05.2021",
+    "DateEnd": "31.05.2021",
     "Year": 2021,
     "Month": 5,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 31.72600000000001
+    "GeneratedElectricityAmount": 31.72600000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44317,
-    "DateEnd": 44347,
+    "DateStart": "01.05.2021",
+    "DateEnd": "31.05.2021",
     "Year": 2021,
     "Month": 5,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 30.45300000000002
+    "GeneratedElectricityAmount": 30.45300000000002,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44348,
-    "DateEnd": 44377,
+    "DateStart": "01.06.2021",
+    "DateEnd": "30.06.2021",
     "Year": 2021,
     "Month": 6,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 736.4070000000003
+    "GeneratedElectricityAmount": 736.4070000000003,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44348,
-    "DateEnd": 44377,
+    "DateStart": "01.06.2021",
+    "DateEnd": "30.06.2021",
     "Year": 2021,
     "Month": 6,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 17.52800000000001
+    "GeneratedElectricityAmount": 17.52800000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44348,
-    "DateEnd": 44377,
+    "DateStart": "01.06.2021",
+    "DateEnd": "30.06.2021",
     "Year": 2021,
     "Month": 6,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 204.773
+    "GeneratedElectricityAmount": 204.773,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44348,
-    "DateEnd": 44377,
+    "DateStart": "01.06.2021",
+    "DateEnd": "30.06.2021",
     "Year": 2021,
     "Month": 6,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 46.42099999999999
+    "GeneratedElectricityAmount": 46.42099999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44348,
-    "DateEnd": 44377,
+    "DateStart": "01.06.2021",
+    "DateEnd": "30.06.2021",
     "Year": 2021,
     "Month": 6,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 27.451
+    "GeneratedElectricityAmount": 27.451,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44348,
-    "DateEnd": 44377,
+    "DateStart": "01.06.2021",
+    "DateEnd": "30.06.2021",
     "Year": 2021,
     "Month": 6,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 26.33999999999999
+    "GeneratedElectricityAmount": 26.33999999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44378,
-    "DateEnd": 44408,
+    "DateStart": "01.07.2021",
+    "DateEnd": "31.07.2021",
     "Year": 2021,
     "Month": 7,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 925.2500000000008
+    "GeneratedElectricityAmount": 925.2500000000008,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44378,
-    "DateEnd": 44408,
+    "DateStart": "01.07.2021",
+    "DateEnd": "31.07.2021",
     "Year": 2021,
     "Month": 7,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 19.223
+    "GeneratedElectricityAmount": 19.223,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44378,
-    "DateEnd": 44408,
+    "DateStart": "01.07.2021",
+    "DateEnd": "31.07.2021",
     "Year": 2021,
     "Month": 7,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 228.294
+    "GeneratedElectricityAmount": 228.294,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44378,
-    "DateEnd": 44408,
+    "DateStart": "01.07.2021",
+    "DateEnd": "31.07.2021",
     "Year": 2021,
     "Month": 7,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 45.20700000000001
+    "GeneratedElectricityAmount": 45.20700000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44378,
-    "DateEnd": 44408,
+    "DateStart": "01.07.2021",
+    "DateEnd": "31.07.2021",
     "Year": 2021,
     "Month": 7,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 28.573
+    "GeneratedElectricityAmount": 28.573,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44378,
-    "DateEnd": 44408,
+    "DateStart": "01.07.2021",
+    "DateEnd": "31.07.2021",
     "Year": 2021,
     "Month": 7,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 16.636
+    "GeneratedElectricityAmount": 16.636,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44409,
-    "DateEnd": 44439,
+    "DateStart": "01.08.2021",
+    "DateEnd": "31.08.2021",
     "Year": 2021,
     "Month": 8,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 851.1560000000005
+    "GeneratedElectricityAmount": 851.1560000000005,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44409,
-    "DateEnd": 44439,
+    "DateStart": "01.08.2021",
+    "DateEnd": "31.08.2021",
     "Year": 2021,
     "Month": 8,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 16.758
+    "GeneratedElectricityAmount": 16.758,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44409,
-    "DateEnd": 44439,
+    "DateStart": "01.08.2021",
+    "DateEnd": "31.08.2021",
     "Year": 2021,
     "Month": 8,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 250.643
+    "GeneratedElectricityAmount": 250.643,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44409,
-    "DateEnd": 44439,
+    "DateStart": "01.08.2021",
+    "DateEnd": "31.08.2021",
     "Year": 2021,
     "Month": 8,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 44.523
+    "GeneratedElectricityAmount": 44.523,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44409,
-    "DateEnd": 44439,
+    "DateStart": "01.08.2021",
+    "DateEnd": "31.08.2021",
     "Year": 2021,
     "Month": 8,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 30.866
+    "GeneratedElectricityAmount": 30.866,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44409,
-    "DateEnd": 44439,
+    "DateStart": "01.08.2021",
+    "DateEnd": "31.08.2021",
     "Year": 2021,
     "Month": 8,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 12.224
+    "GeneratedElectricityAmount": 12.224,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44440,
-    "DateEnd": 44469,
+    "DateStart": "01.09.2021",
+    "DateEnd": "30.09.2021",
     "Year": 2021,
     "Month": 9,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 640.2919999999999
+    "GeneratedElectricityAmount": 640.2919999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44440,
-    "DateEnd": 44469,
+    "DateStart": "01.09.2021",
+    "DateEnd": "30.09.2021",
     "Year": 2021,
     "Month": 9,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 12.121184
+    "GeneratedElectricityAmount": 12.121184,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44440,
-    "DateEnd": 44469,
+    "DateStart": "01.09.2021",
+    "DateEnd": "30.09.2021",
     "Year": 2021,
     "Month": 9,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 310.372
+    "GeneratedElectricityAmount": 310.372,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44440,
-    "DateEnd": 44469,
+    "DateStart": "01.09.2021",
+    "DateEnd": "30.09.2021",
     "Year": 2021,
     "Month": 9,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 43.30599999999998
+    "GeneratedElectricityAmount": 43.30599999999998,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44440,
-    "DateEnd": 44469,
+    "DateStart": "01.09.2021",
+    "DateEnd": "30.09.2021",
     "Year": 2021,
     "Month": 9,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 30.68
+    "GeneratedElectricityAmount": 30.68,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44440,
-    "DateEnd": 44469,
+    "DateStart": "01.09.2021",
+    "DateEnd": "30.09.2021",
     "Year": 2021,
     "Month": 9,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 14.433
+    "GeneratedElectricityAmount": 14.433,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44470,
-    "DateEnd": 44500,
+    "DateStart": "01.10.2021",
+    "DateEnd": "31.10.2021",
     "Year": 2021,
     "Month": 10,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 604.5439999999998
+    "GeneratedElectricityAmount": 604.5439999999998,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44470,
-    "DateEnd": 44500,
+    "DateStart": "01.10.2021",
+    "DateEnd": "31.10.2021",
     "Year": 2021,
     "Month": 10,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 9.994999999999994
+    "GeneratedElectricityAmount": 9.994999999999994,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44470,
-    "DateEnd": 44500,
+    "DateStart": "01.10.2021",
+    "DateEnd": "31.10.2021",
     "Year": 2021,
     "Month": 10,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 470.6910000000001
+    "GeneratedElectricityAmount": 470.6910000000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44470,
-    "DateEnd": 44500,
+    "DateStart": "01.10.2021",
+    "DateEnd": "31.10.2021",
     "Year": 2021,
     "Month": 10,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 46.038
+    "GeneratedElectricityAmount": 46.038,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44470,
-    "DateEnd": 44500,
+    "DateStart": "01.10.2021",
+    "DateEnd": "31.10.2021",
     "Year": 2021,
     "Month": 10,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 35.763
+    "GeneratedElectricityAmount": 35.763,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44470,
-    "DateEnd": 44500,
+    "DateStart": "01.10.2021",
+    "DateEnd": "31.10.2021",
     "Year": 2021,
     "Month": 10,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 18.359
+    "GeneratedElectricityAmount": 18.359,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44501,
-    "DateEnd": 44530,
+    "DateStart": "31.10.2021",
+    "DateEnd": "29.11.2021",
     "Year": 2021,
     "Month": 11,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 287.6570000000002
+    "GeneratedElectricityAmount": 287.6570000000002,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44501,
-    "DateEnd": 44530,
+    "DateStart": "31.10.2021",
+    "DateEnd": "29.11.2021",
     "Year": 2021,
     "Month": 11,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 4.265999999999996
+    "GeneratedElectricityAmount": 4.265999999999996,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44501,
-    "DateEnd": 44530,
+    "DateStart": "31.10.2021",
+    "DateEnd": "29.11.2021",
     "Year": 2021,
     "Month": 11,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 363.4359999999999
+    "GeneratedElectricityAmount": 363.4359999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44501,
-    "DateEnd": 44530,
+    "DateStart": "31.10.2021",
+    "DateEnd": "29.11.2021",
     "Year": 2021,
     "Month": 11,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 45.333
+    "GeneratedElectricityAmount": 45.333,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44501,
-    "DateEnd": 44530,
+    "DateStart": "31.10.2021",
+    "DateEnd": "29.11.2021",
     "Year": 2021,
     "Month": 11,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 40.91099999999999
+    "GeneratedElectricityAmount": 40.91099999999999,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44501,
-    "DateEnd": 44530,
+    "DateStart": "31.10.2021",
+    "DateEnd": "29.11.2021",
     "Year": 2021,
     "Month": 11,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 17.622
+    "GeneratedElectricityAmount": 17.622,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44531,
-    "DateEnd": 44561,
+    "DateStart": "30.11.2021",
+    "DateEnd": "30.12.2021",
     "Year": 2021,
     "Month": 12,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "ground mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 85.8698660000001
+    "GeneratedElectricityAmount": 85.8698660000001,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44531,
-    "DateEnd": 44561,
+    "DateStart": "30.11.2021",
+    "DateEnd": "30.12.2021",
     "Year": 2021,
     "Month": 12,
     "PowerPlantType": "Solar",
     "PowerPlantSubtype": "roof and facade mounted power plants",
-    "GeneratedElectricityAmount,MillionKWh": 1.025576
+    "GeneratedElectricityAmount": 1.025576,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44531,
-    "DateEnd": 44561,
+    "DateStart": "30.11.2021",
+    "DateEnd": "30.12.2021",
     "Year": 2021,
     "Month": 12,
     "PowerPlantType": "Wind",
-    "GeneratedElectricityAmount,MillionKWh": 450.46
+    "GeneratedElectricityAmount": 450.46,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44531,
-    "DateEnd": 44561,
+    "DateStart": "30.11.2021",
+    "DateEnd": "30.12.2021",
     "Year": 2021,
     "Month": 12,
     "PowerPlantType": "Biogas",
-    "GeneratedElectricityAmount,MillionKWh": 53.605
+    "GeneratedElectricityAmount": 53.605,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44531,
-    "DateEnd": 44561,
+    "DateStart": "30.11.2021",
+    "DateEnd": "30.12.2021",
     "Year": 2021,
     "Month": 12,
     "PowerPlantType": "Biomass",
-    "GeneratedElectricityAmount,MillionKWh": 39.227
+    "GeneratedElectricityAmount": 39.227,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 44531,
-    "DateEnd": 44561,
+    "DateStart": "30.11.2021",
+    "DateEnd": "30.12.2021",
     "Year": 2021,
     "Month": 12,
     "PowerPlantType": "Hydro",
-    "GeneratedElectricityAmount,MillionKWh": 22.979069
+    "GeneratedElectricityAmount": 22.979069,
+    "Unit": "MillionKWh"
   }
 ]

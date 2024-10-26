@@ -1,212 +1,242 @@
 [
   {
-    "DateStart": 42370,
-    "DateEnd": 42735,
+    "DateStart": "31.12.2015",
+    "DateEnd": "30.12.2016",
     "Year": 2016,
     "PowerPlantType": "heat power plants",
-    "HeatOutputAmount": 1699
+    "HeatOutputAmount": 1699,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42370,
-    "DateEnd": 42735,
+    "DateStart": "31.12.2015",
+    "DateEnd": "30.12.2016",
     "Year": 2016,
     "PowerPlantType": "combined heat and power plants",
-    "HeatOutputAmount": 29879
+    "HeatOutputAmount": 29879,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42370,
-    "DateEnd": 42735,
+    "DateStart": "31.12.2015",
+    "DateEnd": "30.12.2016",
     "Year": 2016,
     "PowerPlantType": "nuclear power plants ",
-    "HeatOutputAmount": 1514
+    "HeatOutputAmount": 1514,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42370,
-    "DateEnd": 42735,
+    "DateStart": "31.12.2015",
+    "DateEnd": "30.12.2016",
     "Year": 2016,
     "PowerPlantType": "heat plants",
-    "HeatOutputAmount": 60194
+    "HeatOutputAmount": 60194,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42370,
-    "DateEnd": 42735,
+    "DateStart": "31.12.2015",
+    "DateEnd": "30.12.2016",
     "Year": 2016,
     "PowerPlantType": "utilization units",
-    "HeatOutputAmount": 4583
+    "HeatOutputAmount": 4583,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42370,
-    "DateEnd": 42735,
+    "DateStart": "31.12.2015",
+    "DateEnd": "30.12.2016",
     "Year": 2016,
     "PowerPlantType": "other units",
-    "HeatOutputAmount": 1087
+    "HeatOutputAmount": 1087,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42736,
-    "DateEnd": 43100,
+    "DateStart": "31.12.2016",
+    "DateEnd": "30.12.2017",
     "Year": 2017,
     "PowerPlantType": "heat power plants",
-    "HeatOutputAmount": 1476.449
+    "HeatOutputAmount": 1476.449,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42736,
-    "DateEnd": 43100,
+    "DateStart": "31.12.2016",
+    "DateEnd": "30.12.2017",
     "Year": 2017,
     "PowerPlantType": "combined heat and power plants",
-    "HeatOutputAmount": 29092.918
+    "HeatOutputAmount": 29092.918,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42736,
-    "DateEnd": 43100,
+    "DateStart": "31.12.2016",
+    "DateEnd": "30.12.2017",
     "Year": 2017,
     "PowerPlantType": "nuclear power plants ",
-    "HeatOutputAmount": 1511.481
+    "HeatOutputAmount": 1511.481,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42736,
-    "DateEnd": 43100,
+    "DateStart": "31.12.2016",
+    "DateEnd": "30.12.2017",
     "Year": 2017,
     "PowerPlantType": "heat plants",
-    "HeatOutputAmount": 55837.2
+    "HeatOutputAmount": 55837.2,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42736,
-    "DateEnd": 43100,
+    "DateStart": "31.12.2016",
+    "DateEnd": "30.12.2017",
     "Year": 2017,
     "PowerPlantType": "utilization units",
-    "HeatOutputAmount": 4357.121
+    "HeatOutputAmount": 4357.121,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 42736,
-    "DateEnd": 43100,
+    "DateStart": "31.12.2016",
+    "DateEnd": "30.12.2017",
     "Year": 2017,
     "PowerPlantType": "other units",
-    "HeatOutputAmount": 1019
+    "HeatOutputAmount": 1019,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43101,
-    "DateEnd": 43465,
+    "DateStart": "31.12.2017",
+    "DateEnd": "30.12.2018",
     "Year": 2018,
     "PowerPlantType": "heat power plants",
-    "HeatOutputAmount": 1516.7744
+    "HeatOutputAmount": 1516.7744,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43101,
-    "DateEnd": 43465,
+    "DateStart": "31.12.2017",
+    "DateEnd": "30.12.2018",
     "Year": 2018,
     "PowerPlantType": "combined heat and power plants",
-    "HeatOutputAmount": 29088.6398
+    "HeatOutputAmount": 29088.6398,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43101,
-    "DateEnd": 43465,
+    "DateStart": "31.12.2017",
+    "DateEnd": "30.12.2018",
     "Year": 2018,
     "PowerPlantType": "nuclear power plants ",
-    "HeatOutputAmount": 1541.745
+    "HeatOutputAmount": 1541.745,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43101,
-    "DateEnd": 43465,
+    "DateStart": "31.12.2017",
+    "DateEnd": "30.12.2018",
     "Year": 2018,
     "PowerPlantType": "heat plants",
-    "HeatOutputAmount": 59261.4964
+    "HeatOutputAmount": 59261.4964,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43101,
-    "DateEnd": 43465,
+    "DateStart": "31.12.2017",
+    "DateEnd": "30.12.2018",
     "Year": 2018,
     "PowerPlantType": "utilization units",
-    "HeatOutputAmount": 5336.1769
+    "HeatOutputAmount": 5336.1769,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43101,
-    "DateEnd": 43465,
+    "DateStart": "31.12.2017",
+    "DateEnd": "30.12.2018",
     "Year": 2018,
     "PowerPlantType": "other units",
-    "HeatOutputAmount": 1048.9939
+    "HeatOutputAmount": 1048.9939,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43466,
-    "DateEnd": 43830,
+    "DateStart": "31.12.2018",
+    "DateEnd": "30.12.2019",
     "Year": 2019,
     "PowerPlantType": "heat power plants",
-    "HeatOutputAmount": 1240.8826
+    "HeatOutputAmount": 1240.8826,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43466,
-    "DateEnd": 43830,
+    "DateStart": "31.12.2018",
+    "DateEnd": "30.12.2019",
     "Year": 2019,
     "PowerPlantType": "combined heat and power plants",
-    "HeatOutputAmount": 26733.0867
+    "HeatOutputAmount": 26733.0867,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43466,
-    "DateEnd": 43830,
+    "DateStart": "31.12.2018",
+    "DateEnd": "30.12.2019",
     "Year": 2019,
     "PowerPlantType": "nuclear power plants ",
-    "HeatOutputAmount": 1442.663
+    "HeatOutputAmount": 1442.663,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43466,
-    "DateEnd": 43830,
+    "DateStart": "31.12.2018",
+    "DateEnd": "30.12.2019",
     "Year": 2019,
     "PowerPlantType": "heat plants",
-    "HeatOutputAmount": 53953.8114
+    "HeatOutputAmount": 53953.8114,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43466,
-    "DateEnd": 43830,
+    "DateStart": "31.12.2018",
+    "DateEnd": "30.12.2019",
     "Year": 2019,
     "PowerPlantType": "utilization units",
-    "HeatOutputAmount": 6655.5549
+    "HeatOutputAmount": 6655.5549,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43466,
-    "DateEnd": 43830,
+    "DateStart": "31.12.2018",
+    "DateEnd": "30.12.2019",
     "Year": 2019,
     "PowerPlantType": "other units",
-    "HeatOutputAmount": 982.8903
+    "HeatOutputAmount": 982.8903,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43831,
-    "DateEnd": 44196,
+    "DateStart": "31.12.2019",
+    "DateEnd": "30.12.2020",
     "Year": 2020,
     "PowerPlantType": "heat power plants",
-    "HeatOutputAmount": 1125.0628
+    "HeatOutputAmount": 1125.0628,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43831,
-    "DateEnd": 44196,
+    "DateStart": "31.12.2019",
+    "DateEnd": "30.12.2020",
     "Year": 2020,
     "PowerPlantType": "combined heat and power plants",
-    "HeatOutputAmount": 25517.1152
+    "HeatOutputAmount": 25517.1152,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43831,
-    "DateEnd": 44196,
+    "DateStart": "31.12.2019",
+    "DateEnd": "30.12.2020",
     "Year": 2020,
     "PowerPlantType": "nuclear power plants ",
-    "HeatOutputAmount": 1387.427
+    "HeatOutputAmount": 1387.427,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43831,
-    "DateEnd": 44196,
+    "DateStart": "31.12.2019",
+    "DateEnd": "30.12.2020",
     "Year": 2020,
     "PowerPlantType": "heat plants",
-    "HeatOutputAmount": 52954.3851
+    "HeatOutputAmount": 52954.3851,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43831,
-    "DateEnd": 44196,
+    "DateStart": "31.12.2019",
+    "DateEnd": "30.12.2020",
     "Year": 2020,
     "PowerPlantType": "utilization units",
-    "HeatOutputAmount": 7087.5903
+    "HeatOutputAmount": 7087.5903,
+    "Unit": "MillionKWh"
   },
   {
-    "DateStart": 43831,
-    "DateEnd": 44196,
+    "DateStart": "31.12.2019",
+    "DateEnd": "30.12.2020",
     "Year": 2020,
     "PowerPlantType": "other units",
-    "HeatOutputAmount": 882.5256
+    "HeatOutputAmount": 882.5256,
+    "Unit": "MillionKWh"
   }
 ]

@@ -1,9 +1,14 @@
 import { getAllGreenPlants, getGreenPlantById, createGreenPlant, deleteGreenPlant, updateGreenPlant } from '../services/plantsGreen.js';
 import createHttpError from 'http-errors';
+import { parsePaginationParams } from '../utils/parsePaginationParams.js';
 
 export const getGreenPlantsController = async (req, res, next) => {
     try {
-    const green = await getAllGreenPlants();
+      const { page, perPage } = parsePaginationParams(req.query);
+      const green = await getAllGreenPlants({
+        page,
+        perPage,
+      });
 
     res.status(200).json({
       status: 200,

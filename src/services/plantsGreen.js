@@ -1,9 +1,22 @@
 import { PlantsGreenCollection } from "../db/models/plantsGreen.js";
+import { calculatePaginationData } from "../utils/calculatePaginationData.js";
 
-export const getAllGreenPlants = async () => {
-  const green = await PlantsGreenCollection.find();
-  console.log('Запит на green:', green);
-  return green;
+export const getAllGreenPlants = async ({ page, perPage }) => {
+  const limit = perPage;
+  const skip = (page - 1) * perPage;
+
+  const greenQuery = PlantsGreenCollection.find();
+  const greenCount = await PlantsGreenCollection.find()
+      .merge(greenQuery)
+      .countDocuments();
+
+  const green = await greenQuery.skip(skip).limit(limit).exec();
+  const paginationData = calculatePaginationData(greenCount, perPage, page);
+
+  return {
+    data: green,
+    ...paginationData,
+  };;
 };
 
 export const getGreenPlantById = async (greenPlantId) => {
