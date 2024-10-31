@@ -55,7 +55,10 @@ export const getAllThermalPlantsController = async (req, res, next) => {
     next(createHttpError(404, 'Green Plant not found'));
     return;
   }
-  res.status(204).send();
+  res.json({
+    status: 200,
+    message: `Successfully deleted a Thermal Plant with Id ${thermalPlantId}!`
+  });
  };
 
  export const upsertThermalPlantController = async (req, res, next) => {

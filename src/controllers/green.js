@@ -60,7 +60,12 @@ export const getGreenPlantsController = async (req, res, next) => {
     next(createHttpError(404, 'Green Plant not found'));
     return;
   }
-  res.status(204).send();
+
+  res.json({
+    status: 200,
+    message: `Successfully deleted a Green Plant with Id ${greenPlantId}!`
+  });
+
  };
 
  export const upsertGreenPlantController = async (req, res, next) => {

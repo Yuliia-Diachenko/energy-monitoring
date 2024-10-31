@@ -2,6 +2,9 @@ import { Router } from "express";
 import { ctrlWrapper } from '../utils/ctrlWrapper.js';
 import { isValidIdGreen } from "../middlewares/isValidId.js";
 import { validateBody } from "../middlewares/validateBody.js";
+import { authenticate } from '../middlewares/authenticate.js';
+import { checkRoles } from '../middlewares/checkRoles.js';
+import { ROLES } from '../constants/index.js';
 import { createGreenPlantValidationSchema, updateGreenPlantValidationSchema } from "../validation/greenPlant.js";
 import { getGreenPlantsController,
     getGreenPlantByIdController,
@@ -12,16 +15,18 @@ import { getGreenPlantsController,
 
 const router = Router();
 
-router.get('/powerPlants/green', ctrlWrapper(getGreenPlantsController));
+router.use(authenticate);
 
-router.get('/powerPlants/green/:greenPlantId', isValidIdGreen, ctrlWrapper(getGreenPlantByIdController));
+router.get('/', checkRoles(ROLES.ADMIN, ROLES.USER), ctrlWrapper(getGreenPlantsController));
 
-router.post('/powerPlants/green', validateBody(createGreenPlantValidationSchema), ctrlWrapper(createGreenPlantController));
+router.get('/:greenPlantId', checkRoles(ROLES.ADMIN, ROLES.USER), isValidIdGreen, ctrlWrapper(getGreenPlantByIdController));
 
-router.delete('/powerPlants/green/:greenPlantId', isValidIdGreen, ctrlWrapper(deleteGreenPlantController));
+router.post('/', checkRoles(ROLES.ADMIN), validateBody(createGreenPlantValidationSchema), ctrlWrapper(createGreenPlantController));
 
-router.put('/powerPlants/green/:greenPlantId', isValidIdGreen, validateBody(updateGreenPlantValidationSchema), ctrlWrapper(upsertGreenPlantController));
+router.delete('/:greenPlantId', checkRoles(ROLES.ADMIN), isValidIdGreen, ctrlWrapper(deleteGreenPlantController));
 
-router.patch('/powerPlants/green/:greenPlantId', isValidIdGreen, validateBody(updateGreenPlantValidationSchema), ctrlWrapper(patchGreenPlantController));
+router.put('/:greenPlantId', checkRoles(ROLES.ADMIN), isValidIdGreen, validateBody(updateGreenPlantValidationSchema), ctrlWrapper(upsertGreenPlantController));
+
+router.patch('/:greenPlantId', checkRoles(ROLES.ADMIN), isValidIdGreen, validateBody(updateGreenPlantValidationSchema), ctrlWrapper(patchGreenPlantController));
 
 export default router;

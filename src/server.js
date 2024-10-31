@@ -2,10 +2,12 @@ import express from 'express';
 import pino from 'pino-http';
 import cors from 'cors';
 import { env } from './utils/env.js';
-import greenRouter from './routers/green.js';
-import thermalRouter from './routers/thermal.js';
+// import greenRouter from './routers/green.js';
+// import thermalRouter from './routers/thermal.js';
 import { notFoundHandler } from './middlewares/notFoundHandler.js';
 import { errorHandler } from './middlewares/errorHandler.js';
+import router from './routers/index.js';
+import cookieParser from 'cookie-parser';
 
 const PORT = Number(env('PORT', '3000'));
 
@@ -14,6 +16,7 @@ export default async function setupServer() {
   const app = express();
   app.use(express.json());
   app.use(cors());
+  app.use(cookieParser());
   app.use(
     pino({
       transport: {
@@ -22,8 +25,10 @@ export default async function setupServer() {
     }),
   );
 
-  app.use(greenRouter);
-  app.use(thermalRouter);
+  // app.use(greenRouter);
+  // app.use(thermalRouter);
+
+  app.use(router);
 
   app.use('*', notFoundHandler);
   app.use(errorHandler);
