@@ -1,0 +1,72 @@
+tags:
+  - Greens
+summary: Create Green plant
+operationId: createGreenPlant
+description: 'Create a Green plant with payload'
+security:
+  - bearerAuth: []
+requestBody:
+  content:
+    multipart/form-data:
+      schema:
+        type: object
+        required:
+          - DateStart
+          - DateEnd
+          - Year
+          - Month
+          - PowerPlantType
+          - GeneratedElectricityAmount
+          - Unit
+        properties:
+          DateStart:
+            description: "Green plant's date start"
+            type: string
+            example: '12.05.2016'
+          DateEnd:
+            description: "Green plant's date end"
+            type: string
+            example: '31.12.2016'
+          Year:
+            description: "Green plant's data Year"
+            type: number
+            example: 2018
+          Month:
+            description: "Green plant's data Month"
+            type: number
+            example: 9.7
+          PowerPlantType:
+            description: 'Green plant's type power'
+            type: string
+            enum: ["Biomass", "Biogas", "Solar", "Wind", "Hydro"]
+          GeneratedElectricityAmount:
+            description: " Green plant's Generated Electricity Amount"
+            type: number
+            example: 79.186
+          Unit:
+            description: "Green plant's Unit data"
+            type: string
+            example: 'MillionKWh'
+responses:
+  '201':
+    description: Creates a Green pant
+    content:
+      application/json:
+        schema:
+          type: object
+          required:
+            - status
+            - message
+            - data
+          properties:
+            status:
+              type: integer
+              example: 201
+            message:
+              type: string
+              example: Successfully created a Green plant!
+            data:
+              type: object
+              $ref: '../../components/schemas/greenPlant.yaml'
+  '401':
+    $ref: '../../components/responses/401.yaml'

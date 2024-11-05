@@ -1,0 +1,43 @@
+type: object
+required:
+  - _id
+  - DateStart
+  - DateEnd
+  - Year
+  - Month
+  - PowerPlantType
+  - GeneratedElectricityAmount
+  - Unit
+properties:
+  _id:
+    description: "Green plant's id"
+    type: string
+    example: 65e4decdd286b30065d54af9
+  DateStart:
+    description: "Green plant's date start"
+    type: string
+    example: '12.05.2016'
+  DateEnd:
+    description: "Green plant's date end"
+    type: string
+    example: '31.12.2016'
+  Year:
+    description: "Green plant's data Year"
+    type: number
+    example: 2018
+  Month:
+    description: "Green plant's data Month"
+    type: number
+    example: 9.7
+  PowerPlantType:
+    description: 'Green plant's type power'
+    type: string
+    enum: ["Biomass", "Biogas", "Solar", "Wind", "Hydro"]
+  GeneratedElectricityAmount:
+    description: " Green plant's Generated Electricity Amount"
+    type: number
+    example: 79.186
+  Unit:
+    description: "Green plant's Unit data"
+    type: string
+    example: 'MillionKWh'

@@ -1,0 +1,74 @@
+tags:
+  - Thermals
+summary: Create Thermal plant
+operationId: createThermalPlant
+description: 'Create a Thermal plant with payload'
+security:
+  - bearerAuth: []
+requestBody:
+  content:
+    multipart/form-data:
+      schema:
+        type: object
+        required:
+          - DateStart
+          - DateEnd
+          - Year
+          - PowerPlantType
+          - HeatOutputAmount
+          - Unit
+        properties:
+          DateStart:
+            description: "Thermal plant's date start"
+            type: string
+            example: '12.05.2016'
+          DateEnd:
+            description: "Thermal plant's date end"
+            type: string
+            example: '31.12.2016'
+          Year:
+            description: "Thermal plant's data Year"
+            type: number
+            example: 2018
+          PowerPlantType:
+            description: 'Thermal plant's type power'
+            type: string
+            enum: [
+                "heat power plants",
+                "combined heat and power plants",
+                "nuclear power plants",
+                "heat plants",
+                "utilization units",
+                "other units"
+              ]
+          HeatOutputAmount:
+            description: "Thermal plant's Heat Output Amount"
+            type: number
+            example: 79.186
+          Unit:
+            description: "Thermal plant's Unit data"
+            type: string
+            example: 'MillionKWh'
+responses:
+  '201':
+    description: Creates a Thermal plant
+    content:
+      application/json:
+        schema:
+          type: object
+          required:
+            - status
+            - message
+            - data
+          properties:
+            status:
+              type: integer
+              example: 201
+            message:
+              type: string
+              example: Successfully created a Thermal plant!
+            data:
+              type: object
+              $ref: '../../components/schemas/thermalPlant.yaml'
+  '401':
+    $ref: '../../components/responses/401.yaml'
