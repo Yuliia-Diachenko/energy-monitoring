@@ -1,5 +1,5 @@
 tags:
-  - Greens
+  - Green
 summary: Get list of Green plants
 operationId: getGreen
 description: 'Get list of users with this endpoint'

@@ -17,23 +17,23 @@ tags:
 servers:
   - url: http://localhost:3000
   - url: https://energy-monitoring.onrender.com
-  paths:
-    /green:
-      get:
-        $ref: ../swagger/paths/green/get.yaml
-    /thermal:
-      get:
-        $ref: ../swagger/paths/thermal/get.yaml
-    /green:
-      post:
-        $ref: ../swagger/paths/green/post.yaml
-    /thermal:
-      post:
-        $ref: ../swagger/paths/thermal/post.yaml
-    /green/{id}:
+ paths:
+  /green:
+    get:
+      $ref: ../swagger/paths/green/get.yaml
+  /thermal:
+    get:
+      $ref: ../swagger/paths/thermal/get.yaml
+  /green:
+    post:
+      $ref: ../swagger/paths/green/post.yaml
+  /thermal:
+    post:
+      $ref: ../swagger/paths/thermal/post.yaml
+  /green/{id}:
     get:
       $ref: ../swagger/paths/green/{id}/get.yaml
-    /thermal/{id}:
+  /thermal/{id}:
     get:
       $ref: ../swagger/paths/thermal/{id}/get.yaml
 components:
