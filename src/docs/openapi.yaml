@@ -1,22 +1,22 @@
-# docs/openapi.yaml
-
 openapi: 3.1.0
 info:
   version: 1.0.0
-  title: Students app
+  title: E-monitoring
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
   description:
-    This is a documentation of students app
+    This is a documentation of energy monitoring application
 tags:
-  - name: Students
-    description: Operations about users.
+  - name: Greens
+    description: Operations about Green Plants.
+  - name: Thermals
+    description: Operations about Thermal Plants.
   - name: Auth
     description: Auth operations.
 servers:
   - url: http://localhost:3000
-  - url: https://example.com/api/v1
+  - url: https://energy-monitoring.onrender.com
   paths:
     /green:
       get:
