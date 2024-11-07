@@ -46,20 +46,20 @@ This project is a backend for monitoring energy resources. It provides a REST AP
 ## The database created in Mongodb has the following endpoints:
 
  - For Green Plants collection
-        GET: /green                         - to receive all Green Plants
-        GET: /green/:greenPlantId           - to receive Green Plant by id
-        POST: /green                        - to add a new Green power plant
-        DELETE: /green/:greenPlantId        - to delete Green Plant by id
-        PUT: /green/:greenPlantId           - to upsert Green Plant by id
-        PATCH: /green/:greenPlantId         - to update Green Plant by id
+       - GET: /green                         - to receive all Green Plants
+       - GET: /green/:greenPlantId           - to receive Green Plant by id
+       - POST: /green                        - to add a new Green power plant
+       - DELETE: /green/:greenPlantId        - to delete Green Plant by id
+       - PUT: /green/:greenPlantId           - to upsert Green Plant by id
+       - PATCH: /green/:greenPlantId         - to update Green Plant by id
 
  - For Thermal Plants collection
-        GET: /thermal                       - to receive all Thermal Plants
-        GET: /thermal/:thermalPlantId       - to receive Thermal Plant by id
-        POST: /thermal                      - to add a new Termal power plant
-        DELETE: /thermal/:thermalPlantId    - to delete Thermal Plant by id
-        PUT: /thermal/:thermalPlantId       - to upsert Thermal Plant by id
-        PATCH: /thermal/:thermalPlantId     - to update Thermal Plant by id
+       - GET: /thermal                       - to receive all Thermal Plants
+       - GET: /thermal/:thermalPlantId       - to receive Thermal Plant by id
+       - POST: /thermal                      - to add a new Termal power plant
+       - DELETE: /thermal/:thermalPlantId    - to delete Thermal Plant by id
+       - PUT: /thermal/:thermalPlantId       - to upsert Thermal Plant by id
+       - PATCH: /thermal/:thermalPlantId     - to update Thermal Plant by id
 
 ## Contributing
 
@@ -73,3 +73,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
  - **Author:** Yuliia Diachenko
  - **Email:**  y.diachenko@meta.ua
  - **GitHub:** https://github.com/Yuliia-Diachenko
+
+## Swagger docs
+https://family-tree-6zsd.onrender.com/api-docs/
