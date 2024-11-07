@@ -75,4 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
  - **GitHub:** https://github.com/Yuliia-Diachenko
 
 ## Swagger docs
-https://family-tree-6zsd.onrender.com/api-docs/
+https://energy-monitoring.onrender.com/api-docs
