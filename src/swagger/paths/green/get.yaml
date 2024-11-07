@@ -86,7 +86,7 @@ responses:
                 data:
                   type: array
                   items:
-                    $ref: '../../components/schemas/plantsGreen.yaml'
+                    $ref: '../../components/schemas/greenPlant.yaml'
                 page:
                   type: number
                   example: 2

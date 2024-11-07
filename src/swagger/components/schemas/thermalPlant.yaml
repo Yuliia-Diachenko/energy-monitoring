@@ -25,7 +25,7 @@ properties:
     type: number
     example: 2018
   PowerPlantType:
-    description: 'Thermal plant's type power'
+    description: 'Thermal plant type power'
     type: string
     enum: [
         "heat power plants",

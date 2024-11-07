@@ -1,5 +1,5 @@
 tags:
-  - Green plant
+  - Green
 summary: Get green plant by id
 operationId: getGreenPlant
 description: 'Get green plant by id'

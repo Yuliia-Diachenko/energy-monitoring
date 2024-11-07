@@ -36,7 +36,7 @@ requestBody:
             type: number
             example: 9.7
           PowerPlantType:
-            description: 'Green plant's type power'
+            description: 'Green plant`s type power'
             type: string
             enum: ["Biomass", "Biogas", "Solar", "Wind", "Hydro"]
           GeneratedElectricityAmount:

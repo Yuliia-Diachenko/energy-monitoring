@@ -8,34 +8,32 @@ info:
   description:
     This is a documentation of energy monitoring application
 tags:
-  - name: Greens
+  - name: Green
     description: Operations about Green Plants.
-  - name: Thermals
+  - name: Thermal
     description: Operations about Thermal Plants.
   - name: Auth
     description: Auth operations.
 servers:
   - url: http://localhost:3000
   - url: https://energy-monitoring.onrender.com
- paths:
+paths:
   /green:
     get:
-      $ref: ../swagger/paths/green/get.yaml
-  /thermal:
-    get:
-      $ref: ../swagger/paths/thermal/get.yaml
-  /green:
+      $ref: ../src/swagger/paths/green/get.yaml
     post:
-      $ref: ../swagger/paths/green/post.yaml
-  /thermal:
-    post:
-      $ref: ../swagger/paths/thermal/post.yaml
+      $ref: ../src/swagger/paths/green/post.yaml
   /green/{id}:
     get:
-      $ref: ../swagger/paths/green/{id}/get.yaml
+      $ref: ../src/swagger/paths/green/{id}/get.yaml
+  /thermal:
+    get:
+      $ref: ../src/swagger/paths/thermal/get.yaml
+    post:
+      $ref: ../src/swagger/paths/thermal/post.yaml
   /thermal/{id}:
     get:
-      $ref: ../swagger/paths/thermal/{id}/get.yaml
+      $ref: ../src/swagger/paths/thermal/{id}/get.yaml
 components:
   securitySchemes:
     bearerAuth:

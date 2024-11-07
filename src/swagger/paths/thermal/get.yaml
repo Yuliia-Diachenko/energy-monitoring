@@ -1,7 +1,7 @@
 tags:
   - Thermal
 summary: Get list of Thermal plants
-operationId: getGreen
+operationId: getThermal
 description: 'Get list of users with this endpoint'
 security:
   - bearerAuth: []
@@ -93,7 +93,7 @@ responses:
                 data:
                   type: array
                   items:
-                    $ref: '../../components/schemas/plantsThermal.yaml'
+                    $ref: '../../components/schemas/thermalPlant.yaml'
                 page:
                   type: number
                   example: 2
